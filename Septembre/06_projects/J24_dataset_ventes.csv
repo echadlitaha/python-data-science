@@ -1,0 +1,907 @@
+﻿sale_id,date,customer_id,customer_segment,city,region,channel,category,product,quantity,unit_price_mad,unit_cost_mad,discount_pct,salesperson,payment_method
+S00001,24/01/2026,C0064,Grand compte,Casablanca,Casablanca-Settat,Commercial,Bureau,Chaise Ergo,7,2128.75,1241.11,0,Commercial_11,Virement
+S00002,2026-07-22,C0079,Particulier,Fes,Fes-Meknes,Commercial,Accessoires,Casque Bluetooth,1,694.7,321.24,10,Commercial_06,Virement
+S00003,2026-05-25,C0178,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,2,405.09,206.7,5,Commercial_05,Paiement mobile
+S00004,2026-04-09,C0103,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Chaise Ergo,2,1964.91,1237.3,0,Commercial_04,Virement
+S00005,2026-04-28,C0158,Particulier,,Marrakech-Safi,Magasin,Bureau,Lampe LED,3,435.97,215.33,20,Commercial_01,Virement
+S00006,2026-06-06,C0177,,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Clavier Mecanique,3,583.27,265.02,0,Commercial_01,Paiement mobile
+S00007,2026-02-05,C0146,Particulier,Casablanca,Casablanca-Settat,En ligne,ELECTRONIQUE,Tablette 10,2,3791.95,2723.44,10,Commercial_05,Virement
+S00008,16/02/2026,C0073,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Smartphone X,3,6503.17,4346.17,0,Commercial_04,Virement
+S00009,2026-08-27,C0055,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Bureau Compact,5,1646.96,933.54,5,Commercial_02,Especes
+S00010,2026-04-02,C0042,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Lampe LED,1,417.41,207.32,25,Commercial_02,Virement
+S00011,2026-07-27,C0080,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Casque Bluetooth,3,722.65,314.2,20,Commercial_01,Carte
+S00012,2026/03/24,C0231,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,5,377.36,156.12,5,Commercial_01,Paiement mobile
+S00013,2026-06-14,C0038,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Smartphone X,3,6460.07,4306.02,15,Commercial_07,Especes
+S00014,2026-03-25,C0065,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Lampe LED,2,408.97,218.6,0,Commercial_06,Especes
+S00015,13/02/2026,C0116,PME,Casablanca,Casablanca-Settat,Commercial,Accessoires,Souris Sans Fil,1,261.62,108.81,15,Commercial_11,Especes
+S00016,2026-07-05,C0181,Particulier,Fes,Fes-Meknes,Magasin,Electronique,Ecran 27,4,3000.01,1711.74,15,Commercial_06,Carte
+S00017,2026-05-25,C0223,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Bureau Compact,8,1687.28,1005.59,10,Commercial_01,Paiement mobile
+S00018,2026-01-15,C0240,PME,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Power Bank,4,358.15,160.88,10,Commercial_11,Especes
+S00019,2026-08-24,C0076,Particulier,Fes,Fes-Meknes,En ligne,Maison,Aspirateur,1,1865.08,1182.97,15,Commercial_05,Paiement mobile
+S00020,2026-04-03,C0050,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Accessoires,Souris Sans Fil,2,280.03,116.45,0,Commercial_12,Virement
+S00021,2026-02-18,C0127,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Clavier Mecanique,4,544.06,275.47,0,Commercial_10,Virement
+S00022,15/01/2026,C0104,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Tablette 10,3,3931.24,2700.86,20,Commercial_03,Virement
+S00023,2026/02/05,C0113,Grand compte,Marrakech,Marrakech-Safi,Commercial,Accessoires,Power Bank,7,388.75,157.0,15,Commercial_04,Virement
+S00024,2026-07-20,C0128,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Bureau,Chaise Ergo,1,2157.27,1272.39,10,Commercial_04,Especes
+S00025,2026-02-25,C0083,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Lampe LED,4,418.47,203.08,15,Commercial_06,Especes
+S00026,2026-05-27,C0177,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Clavier Mecanique,2,596.48,285.28,25,Commercial_04,Paiement mobile
+S00027,2026-06-03,C0090,Particulier,Marrakech,Marrakech-Safi,En ligne,Maison,Purificateur Air,4,2192.85,1380.29,0,Commercial_05,Carte
+S00028,2026-03-28,C0192,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,7,2994.49,1889.78,5,Commercial_07,Paiement mobile
+S00029,12/07/2026,C0172,Particulier,Marrakech,Marrakech-Safi,En ligne,Maison,Aspirateur,5,1966.74,1204.12,0,Commercial_08,Especes
+S00030,2026-01-15,C0251,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Chaise Ergo,7,2248.32,1323.46,20,Commercial_01,Paiement mobile
+S00031,2026-04-12,C0253,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Souris Sans Fil,1,261.86,115.9,10,Commercial_06,Paiement mobile
+S00032,2026-02-06,C0250,Particulier,Casa,Casablanca-Settat,Commercial,Electronique,Ecran 27,1,2661.17,1828.27,10,Commercial_06,Virement
+S00033,2026-07-06,C0157,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Aspirateur,3,1917.88,1260.85,10,Commercial_06,Carte
+S00034,2026/03/19,C0142,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Purificateur Air,3,2325.36,1404.69,0,Commercial_03,Virement
+S00035,2026-07-18,C0215,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Souris Sans Fil,1,272.52,112.2,5,Commercial_01,Paiement mobile
+S00036,05/07/2026,C0235,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Clavier Mecanique,3,614.06,264.66,15,Commercial_02,Carte
+S00037,2026-06-10,C0151,Particulier,Marrakech,Marrakech-Safi,En ligne,Bureau,Chaise Ergo,2,2155.8,1272.04,10,Commercial_01,Especes
+S00038,2026-01-31,C0260,Grand compte,Casablanca,Casablanca-Settat,En ligne,Electronique,Ecran 27,6,3017.85,1840.41,25,Commercial_08,Paiement mobile
+S00039,2026-03-02,C0059,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,3,673.15,410.65,15,Commercial_04,Carte
+S00040,2026-03-02,C0224,Particulier,Fes,Fes-Meknes,En ligne,Electronique,Tablette 10,1,3895.66,2702.35,15,Commercial_07,Virement
+S00041,2026-03-28,C0207,Particulier,Marrakech,Marrakech-Safi,Magasin,Maison,Machine Cafe,1,1479.68,898.85,10,Commercial_01,Especes
+S00042,2026-02-19,C0241,PME,Fes,Fes-Meknes,Commercial,Accessoires,Clavier Mecanique,5,558.64,282.13,15,Commercial_07,Carte
+S00043,18/01/2026,C0245,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Machine Cafe,2,1378.39,860.88,5,Commercial_08,Carte
+S00044,2026-03-11,C0057,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,1,3967.74,2653.11,15,Commercial_01,Paiement mobile
+S00045,2026/08/04,C0157,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Classeur Metal,2,657.06,396.98,10,Commercial_02,Especes
+S00046,2026-02-24,C0105,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Bureau,Bureau Compact,2,1646.8,1032.95,0,Commercial_09,Especes
+S00047,2026-01-20,C0093,Particulier,Fes,Fes-Meknes,Magasin,Bureau,Lampe LED,2,430.56,220.85,10,Commercial_08,Especes
+S00048,2026-07-04,C0086,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Tablette 10,3,3791.45,2717.12,20,Commercial_04,Virement
+S00049,2026-03-25,C0113,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Maison,Micro-ondes,1,1210.9,750.84,15,Commercial_08,Virement
+S00050,02/02/2026,C0011,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Laptop Pro 14,2,12669.86,8223.67,10,Commercial_05,Especes
+S00051,2026-07-13,C0224,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Ecran 27,1,2811.05,1856.51,20,Commercial_03,Carte
+S00052,2026-08-01,C0139,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Smartphone X,2,6631.28,4511.45,10,Commercial_03,Carte
+S00053,2026-08-28,C0057,Grand compte,Casablanca,Casablanca-Settat,En ligne,Accessoires,Souris Sans Fil,7,246.16,113.47,15,Commercial_04,Paiement mobile
+S00054,2026-03-21,C0058,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Maison,Purificateur Air,3,2269.47,1377.96,20,Commercial_03,Virement
+S00055,2026-02-18,C0128,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,4,409.28,214.04,0,Commercial_06,Especes
+S00056,2026/03/26,C0071,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Aspirateur,2,1892.1,1250.53,0,Commercial_12,Paiement mobile
+S00057,13/08/2026,C0210,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Lampe LED,2,403.38,209.65,25,Commercial_06,Paiement mobile
+S00058,2026-03-19,C0177,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Chaise Ergo,1,2240.32,1231.19,15,Commercial_05,Virement
+S00059,2026-08-14,C0207,Grand compte,Marrakech,Marrakech-Safi,Magasin,Maison,Aspirateur,7,1868.44,1252.92,0,Commercial_08,Carte
+S00060,2026-02-21,C0217,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Casque Bluetooth,2,722.27,345.37,10,Commercial_07,Virement
+S00061,2026-04-22,C0196,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,1,2266.98,1485.37,20,Commercial_08,Virement
+S00062,2026-05-07,C0074,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau ,Classeur Metal,2,697.07,378.06,10,Commercial_02,Paiement mobile
+S00063,2026-05-24,C0016,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Aspirateur,2,1899.21,1240.69,10,Commercial_02,Carte
+S00064,05/01/2026,C0191,Particulier,Marrakech,Marrakech-Safi,En ligne,Accessoires,Souris Sans Fil,2,257.85,110.88,5,Commercial_03,Paiement mobile
+S00065,2026-08-25,C0133,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,1,2036.76,1238.12,20,Commercial_02,Especes
+S00066,2026-08-26,C0226,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Maison,Purificateur Air,1,2147.19,1517.95,15,Commercial_02,Carte
+S00067,2026/08/26,C0089,PME,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Ecran 27,2,2730.97,1830.9,0,Commercial_11,Carte
+S00068,2026-04-08,C0249,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Classeur Metal,1,678.79,403.88,10,Commercial_06,Paiement mobile
+S00069,2026-07-29,C0027,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,4,368.06,156.82,20,Commercial_05,Carte
+S00070,2026-01-23,C0229,Particulier,Marrakech,Marrakech-Safi,Magasin,Accessoires,Casque Bluetooth,1,687.75,330.81,30,Commercial_05,Carte
+S00071,18/03/2026,C0252,,Fes,Fes-Meknes,En ligne,Bureau,Bureau Compact,2,1629.13,962.09,15,Commercial_06,Virement
+S00072,2026-03-29,C0121,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Aspirateur,2,1964.55,1154.03,5,Commercial_05,Carte
+S00073,2026-06-05,C0099,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Tablette 10,2,4005.65,2659.03,15,Commercial_10,Virement
+S00074,2026-07-29,C0041,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Tablette 10,6,3910.6,2565.21,15,Commercial_07,Carte
+S00075,2026-02-12,C0054,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Micro-ondes,3,1269.93,768.21,25,Commercial_09,Paiement mobile
+S00076,2026-04-22,C0176,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Bureau,Bureau Compact,3,1715.2,992.74,0,Commercial_04,Paiement mobile
+S00077,2026-05-06,C0214,Particulier,Marrakech,Marrakech-Safi,En ligne,Maison,Aspirateur,2,2003.93,1184.0,5,Commercial_07,Especes
+S00078,06/08/2026,C0228,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Laptop Pro 14,3,11509.74,7973.9,10,Commercial_10,Virement
+S00079,2026-06-22,C0026,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,2,2111.8,1235.76,5,Commercial_07,Virement
+S00080,2026-08-27,C0013,PME,Marrakech,Marrakech-Safi,Magasin,Electronique,Ecran 27,4,3003.58,1786.11,0,Commercial_02,Carte
+S00081,2026-01-04,C0135,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Power Bank,1,348.13,152.8,10,Commercial_08,Especes
+S00082,2026-05-29,C0257,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Laptop Pro 14,4,11039.67,8081.81,0,Commercial_03,Carte
+S00083,2026-04-18,C0164,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Micro-ondes,1,1287.33,746.58,0,Commercial_06,Virement
+S00084,2026-02-08,C0018,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Smartphone X,1,6379.03,4550.14,5,Commercial_03,Especes
+S00085,14/01/2026,C0096,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Ecran 27,5,2716.68,1818.33,10,Commercial_02,Virement
+S00086,2026-02-13,C0219,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Laptop Pro 14,1,12573.89,8235.84,5,,Carte
+S00087,2026-06-25,C0186,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Micro-ondes,4,1372.4,794.9,15,Commercial_05,Carte
+S00088,2026-02-15,C0054,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Smartphone X,3,6243.39,4398.82,10,Commercial_05,Especes
+S00089,2026/01/04,C0171,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Clavier Mecanique,4,590.06,270.28,5,Commercial_07,Virement
+S00090,2026-04-02,C0194,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,4,3943.08,2524.36,10,Commercial_07,Paiement mobile
+S00091,2026-02-04,C0072,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Chaise Ergo,7,2150.69,1226.46,0,Commercial_02,Especes
+S00092,10/08/2026,C0076,Grand compte ,Marrakech,Marrakech-Safi,Magasin,Electronique,Smartphone X,6,6693.69,4356.22,10,Commercial_05,Virement
+S00093,2026-08-28,C0019,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Laptop Pro 14,3,11159.64,7955.71,20,Commercial_07,Especes
+S00094,2026-01-14,C0161,Particulier,Marrakech,Marrakech-Safi,En ligne,Maison,Micro-ondes,1,1297.46,768.35,5,Commercial_04,Virement
+S00095,2026-04-08,C0116,particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Tablette 10,1,3847.74,2639.4,10,Commercial_08,Carte
+S00096,2026-02-20,C0033,Grand compte,Marrakech,Marrakech-Safi,Magasin,Maison,Aspirateur,6,2024.57,1180.54,5,Commercial_04,Paiement mobile
+S00097,2026-08-29,C0063,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,2,1359.6,840.93,5,Commercial_07,Paiement mobile
+S00098,2026-06-05,C0181,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Smartphone X,5,6584.74,4456.04,15,Commercial_06,Paiement mobile
+S00099,30/06/2026,C0118,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Smartphone X,5,6175.47,4422.72,15,Commercial_07,Paiement mobile
+S00100,2026/05/17,C0141,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Purificateur Air,1,2414.06,1429.11,5,Commercial_05,Paiement mobile
+S00101,2026-04-29,C0020,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Laptop Pro 14,2,11079.92,7982.25,5,Commercial_08,Carte
+S00102,2026-03-24,C0121,Particulier,,Marrakech-Safi,Magasin,Bureau,Chaise Ergo,3,1979.11,1259.63,0,Commercial_02,Carte
+S00103,2026-01-12,C0132,Particulier,Fes,Fes-Meknes,Magasin,Bureau,Classeur Metal,1,636.49,409.56,15,Commercial_05,Paiement mobile
+S00104,2026-05-15,C0025,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Souris Sans Fil,1,245.94,112.52,10,Commercial_05,Virement
+S00105,2026-08-19,C0246,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Purificateur Air,3,2295.0,1451.86,0,Commercial_07,Paiement mobile
+S00106,05/05/2026,C0026,Particulier,Marrakech,Marrakech-Safi,Commercial,Bureau,Classeur Metal,2,641.97,373.12,20,Commercial_01,Virement
+S00107,2026-07-11,C0016,PME,Fes,Fes-Meknes,Commercial,Accessoires,Souris Sans Fil,4,246.31,113.2,15,Commercial_09,Especes
+S00108,2026-06-19,C0092,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Casque Bluetooth,3,737.03,323.69,5,Commercial_07,Paiement mobile
+S00109,2026-01-05,C0233,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Chaise Ergo,2,1994.9,1274.94,15,Commercial_07,Virement
+S00110,2026-01-06,C0107,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,5,11274.69,8784.06,10,Commercial_05,Carte
+S00111,2026/02/25,C0242,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Lampe LED,2,408.1,216.45,10,Commercial_06,Virement
+S00112,2026-05-25,C0254,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Clavier Mecanique,5,590.79,274.76,5,Commercial_04,Paiement mobile
+S00113,13/03/2026,C0179,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Clavier Mecanique,1,607.72,273.3,0,Commercial_08,Especes
+S00114,2026-01-29,C0130,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,3,1481.3,915.04,5,Commercial_03,Especes
+S00115,2026-06-25,C0235,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Smartphone X,3,6289.0,4407.7,15,Commercial_02,Especes
+S00116,2026-06-04,C0208,PME,Casablanca,Casablanca-Settat,Commercial,Maison,Aspirateur,5,1821.48,1172.02,0,Commercial_10,Virement
+S00117,2026-04-09,C0025,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Ecran 27,3,2639.48,1815.39,15,Commercial_12,Virement
+S00118,2026-06-26,C0128,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Casque Bluetooth,30,715.91,327.83,0,Commercial_01,Especes
+S00119,2026-03-28,C0232,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Casque Bluetooth,1,675.94,337.58,10,Commercial_07,Paiement mobile
+S00120,10/07/2026,C0225,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Bureau Compact,2,1694.74,1013.85,20,Commercial_08,Carte
+S00121,2026-07-21,C0031,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Ecran 27,2,2813.09,1851.22,50,Commercial_07,Carte
+S00122,2026/08/10,C0148,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,1,732.17,375.56,10,Commercial_05,Especes
+S00123,2026-08-03,C0043,PME,Marrakech,Marrakech-Safi,Magasin,Maison,Machine Cafe,4,1502.28,896.66,20,Commercial_01,Especes
+S00124,2026-07-11,C0086,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,1,1418.12,834.24,0,Commercial_08,Carte
+S00125,2026-08-03,C0141,,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Purificateur Air,2,2272.05,1487.09,5,Commercial_07,Carte
+S00126,2026-04-14,C0194,Particulier,Casablanca,Casablanca-Settat,Commercial,Accessoires,Casque Bluetooth,1,729.62,316.1,5,Commercial_01,Especes
+S00127,03/06/2026,C0036,Particulier,Fes,Fes-Meknes,Magasin,Maison,Purificateur Air,3,2311.33,1479.23,20,Commercial_08,Paiement mobile
+S00128,2026-01-01,C0215,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Smartphone X,5,6318.02,4297.15,0,Commercial_05,Paiement mobile
+S00129,2026-08-15,C0189,Grand compte,Casablanca,Casablanca-Settat,Commercial,Accessoires,Power Bank,8,373.16,168.19,5,Commercial_06,Especes
+S00130,2026-04-22,C0152,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Power Bank,2,379.41,167.68,0,Commercial_07,Paiement mobile
+S00131,2026-07-05,C0218,Grand compte,Fes,Fes-Meknes,Magasin,Electronique,Ecran 27,4,2771.72,1886.74,5,Commercial_07,Virement
+S00132,2026-06-23,C0032,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Clavier Mecanique,2,572.32,285.42,0,Commercial_03,Virement
+S00133,2026/03/12,C0247,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,5,1550.44,906.18,0,Commercial_02,Virement
+S00134,01/04/2026,C0057,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Smartphone X,5,6463.86,4379.2,10,Commercial_06,Especes
+S00135,2026-07-30,C0151,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Smartphone X,3,5958.44,4194.93,15,Commercial_02,Paiement mobile
+S00136,2026-06-19,C0069,Grand compte,Casablanca,Casablanca-Settat,Commercial,Accessoires,Casque Bluetooth,8,702.39,317.76,5,Commercial_12,Paiement mobile
+S00137,2026-01-31,C0041,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Chaise Ergo,3,2054.12,1233.78,10,Commercial_07,Paiement mobile
+S00138,2026-05-27,C0073,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Classeur Metal,2,659.21,402.11,10,Commercial_06,Virement
+S00139,2026-06-12,C0018,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,4,6272.65,4220.63,10,Commercial_06,Especes
+S00140,2026-07-09,C0235,PME,Marrakech,Marrakech-Safi,En ligne,Electronique,Tablette 10,3,4167.65,2642.36,30,Commercial_06,Paiement mobile
+S00141,13/06/2026,C0170,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,2,2140.98,1497.16,10,Commercial_03,Carte
+S00142,2026-03-11,C0220,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Maison,Purificateur Air,3,2281.4,1400.46,0,Commercial_07,Carte
+S00143,2026-06-19,C0213,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Machine Cafe,7,1429.87,835.78,0,Commercial_04,Especes
+S00144,2026/05/15,C0131,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Souris Sans Fil,4,258.81,105.44,25,Commercial_06,Virement
+S00145,2026-05-30,C0156,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Bureau Compact,8,1751.91,1020.19,5,Commercial_01,Carte
+S00146,2026-01-06,C0094,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,1,1543.73,909.98,15,Commercial_04,Paiement mobile
+S00147,2026-05-29,C0200,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Power Bank,2,371.94,169.46,5,Commercial_03,Especes
+S00148,08/01/2026,C0213,PME,Casablanca,Casablanca-Settat,En ligne,Maison,Machine Cafe,1,1362.81,884.83,5,Commercial_05,Paiement mobile
+S00149,2026-06-13,C0194,,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Lampe LED,1,403.11,219.12,10,Commercial_03,Carte
+S00150,2026-06-01,C0087,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,6,2219.03,1276.96,20,Commercial_04,Virement
+S00151,2026-06-20,C0041,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Aspirateur,3,1929.81,1266.9,10,Commercial_04,Paiement mobile
+S00152,2026-04-27,C0232,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Bureau Compact,4,1812.89,990.58,0,Commercial_02,Paiement mobile
+S00153,2026-03-15,C0154,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Lampe LED,2,422.63,221.25,0,Commercial_10,Carte
+S00154,2026-06-07,C0186,PME,Fes,Fes-Meknes,En ligne,Accessoires,Clavier Mecanique,4,553.18,269.25,0,Commercial_01,Carte
+S00155,13/02/2026,C0256,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Smartphone X,5,5809.7,4497.74,20,Commercial_02,Paiement mobile
+S00156,2026-07-25,C0098,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Laptop Pro 14,2,11860.34,7929.65,5,Commercial_05,Especes
+S00157,2026-04-18,C0132,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Laptop Pro 14,3,11045.44,8262.21,0,Commercial_06,Especes
+S00158,2026-01-15,C0090,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Smartphone X,4,6639.72,4534.26,0,Commercial_06,Especes
+S00159,2026-02-13,C0151,PME,Fes,Fes-Meknes,Magasin,Bureau,Classeur Metal,3,691.17,374.43,10,Commercial_07,Virement
+S00160,2026-07-16,C0236,Particulier,Casablanca,Casablanca-Settat,Commercial,Bureau,Bureau Compact,1,1818.0,1002.61,15,Commercial_10,Paiement mobile
+S00161,2026-06-05,C0209,Particulier,Marrakech,Marrakech-Safi,Commercial,Accessoires,Power Bank,1,339.82,152.55,10,Commercial_11,Carte
+S00162,13/01/2026,C0161,Particulier,Marrakech,Marrakech-Safi,Commercial,Bureau,Chaise Ergo,2,2241.23,1320.01,0,Commercial_01,Virement
+S00163,2026-07-31,C0203,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Bureau,Bureau Compact,4,1650.7,978.35,15,Commercial_06,Carte
+S00164,2026-04-18,C0163,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Clavier Mecanique,5,605.89,275.71,15,Commercial_06,Especes
+S00165,2026-06-22,C0230,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,5,3989.63,2760.93,,Commercial_04,Paiement mobile
+S00166,2026/05/18,C0130,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Bureau,Bureau Compact,4,1748.92,1017.01,5,Commercial_02,Paiement mobile
+S00167,2026-02-20,C0003,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Bureau Compact,1,1849.74,1030.7,0,Commercial_07,Especes
+S00168,2026-01-02,C0176,PME,Casablanca,Casablanca-Settat,Magasin ,Accessoires,Power Bank,2,347.08,164.6,0,Commercial_08,Paiement mobile
+S00169,03/01/2026,C0173,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,3,686.19,323.14,5,Commercial_04,Virement
+S00170,2026-06-06,C0058,Particulier,,Marrakech-Safi,Magasin,Electronique,Tablette 10,2,4048.2,2654.01,5,Commercial_08,Virement
+S00171,2026-08-19,C0250,Particulier,Marrakech,Marrakech-Safi,Commercial,Bureau,Bureau Compact,4,1859.25,961.86,0,Commercial_08,Paiement mobile
+S00172,2026-05-22,C0067,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,1,11659.22,8067.83,5,Commercial_03,Carte
+S00173,2026-04-17,C0080,Particulier,Fes,Fes-Meknes,Commercial,Maison,Machine Cafe,2,1494.93,857.45,0,Commercial_12,Virement
+S00174,2026-03-19,C0107,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Power Bank,2,381.16,156.08,10,Commercial_08,Virement
+S00175,2026-06-22,C0081,Grand compte,Casablanca,Casablanca-Settat,Magasin,Accessoires,Souris Sans Fil,10,250.88,105.22,5,Commercial_07,Especes
+S00176,25/06/2026,C0085,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,1,2203.3,1198.71,15,Commercial_03,Especes
+S00177,2026/03/26,C0158,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Laptop Pro 14,5,11527.84,8313.55,0,Commercial_01,Paiement mobile
+S00178,2026-08-19,C0129,Grand compte,Casablanca,Casablanca-Settat,Commercial,Bureau,Chaise Ergo,6,2221.4,1312.79,25,Commercial_11,Carte
+S00179,2026-07-31,C0101,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Souris Sans Fil,1,279.21,110.49,55,Commercial_05,Carte
+S00180,2026-06-27,C0125,PME,Marrakech,Marrakech-Safi,Magasin,Maison,Aspirateur,4,1860.59,1237.5,15,Commercial_07,Carte
+S00181,2026-08-21,C0110,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Tablette 10,2,4140.95,2589.22,0,Commercial_01,Paiement mobile
+S00182,2026-07-27,C0055,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Smartphone X,3,6636.93,4468.95,20,Commercial_10,Paiement mobile
+S00183,11/01/2026,C0238,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,3,4201.87,2599.97,0,Commercial_02,Paiement mobile
+S00184,2026-04-06,C0122,Particulier,,Tanger-Tetouan-Al Hoceima,En ligne,Electronique ,Smartphone X,3,6588.96,4485.06,0,Commercial_01,Especes
+S00185,2026-07-12,C0138,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Micro-ondes,5,1230.52,757.3,0,Commercial_12,Especes
+S00186,2026-07-11,C0081,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Smartphone X,3,5933.23,4375.08,30,Commercial_04,Virement
+S00187,2026-05-06,C0113,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Classeur Metal,10,638.88,412.65,0,Commercial_01,Carte
+S00188,2026/05/06,C0145,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Clavier Mecanique,2,543.46,270.18,0,Commercial_01,Especes
+S00189,2026-04-14,C0177,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Laptop Pro 14,4,12487.48,8187.2,10,Commercial_10,Especes
+S00190,09/07/2026,C0006,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Electronique,Tablette 10,3,3896.75,2588.69,10,Commercial_07,Virement
+S00191,2026-04-30,C0040,Particulier,Casablanca,Casablanca-Settat,Commercial,Accessoires,Souris Sans Fil,1,250.72,107.88,20,Commercial_02,Virement
+S00192,2026-06-04,C0155,PME,Fes,Fes-Meknes,Magasin,Electronique,Tablette 10,6,4162.17,2634.15,0,Commercial_04,Virement
+S00193,2026-08-18,C0078,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,3,432.12,201.06,5,Commercial_07,Paiement mobile
+S00194,2026-07-11,C0121,Particulier,Marrakech,Marrakech-Safi,Commercial,Bureau,Bureau Compact,1,1676.04,944.11,0,Commercial_07,Carte
+S00195,2026-07-23,C0230,Particulier,Casablanca,Casablanca-Settat,Commercial,Bureau,Bureau Compact,2,1744.2,940.28,5,Commercial_02,Virement
+S00196,2026-02-02,C0049,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,2,6052.33,4215.81,0,Commercial_08,Carte
+S00197,05/08/2026,C0153,,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Tablette 10,1,4136.78,2779.75,15,Commercial_07,Virement
+S00198,2026-04-22,C0057,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,3,2179.73,1199.79,5,Commercial_05,Paiement mobile
+S00199,2026/07/14,C0010,Grand compte,Marrakech,Marrakech-Safi,Magasin,Electronique,Tablette 10,10,3784.52,2709.15,10,,Paiement mobile
+S00200,2026-06-05,C0016,Particulier,,Casablanca-Settat,Magasin,Accessoires,Casque Bluetooth,1,658.81,349.64,0,Commercial_06,Virement
+S00201,2026-08-06,C0023,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Lampe LED,1,423.37,206.03,10,Commercial_06,Paiement mobile
+S00202,2026-01-27,C0191,Particulier,Marrakech,Marrakech-Safi,Magasin,Maison,Aspirateur,1,1804.72,1141.22,10,Commercial_07,Paiement mobile
+S00203,2026-01-17,C0156,PME,Fes,Fes-Meknes,Magasin,Bureau,Bureau Compact,3,1637.2,1010.23,5,Commercial_07,Especes
+S00204,16/03/2026,C0015,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,3,11737.78,8559.63,5,Commercial_07,Paiement mobile
+S00205,2026-02-15,C0128,Particulier,Marrakech,Marrakech-Safi,Magasin,Maison,Aspirateur,3,1821.07,1231.66,5,Commercial_02,Carte
+S00206,2026-01-19,C0015,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Casque Bluetooth,1,663.14,344.45,15,Commercial_05,Carte
+S00207,2026-08-16,C0151,PME,Marrakech,Marrakech-Safi,Magasin,Accessoires,Power Bank,4,345.46,158.74,20,Commercial_02,Virement
+S00208,2026-03-25,C0203,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,2,2986.14,1743.26,0,Commercial_06,Especes
+S00209,2026-08-19,C0074,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Tablette 10,4,4203.12,2626.09,5,Commercial_02,Paiement mobile
+S00210,2026/03/05,C0161,Particulier,Marrakech,Marrakech-Safi,En ligne,Bureau,Chaise Ergo,3,1984.64,1218.32,25,Commercial_02,Virement
+S00211,13/03/2026,C0051,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Power Bank,3,354.18,159.37,5,Commercial_03,Especes
+S00212,2026-05-12,C0003,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Power Bank,6,360.59,158.78,10,Commercial_08,Virement
+S00213,2026-01-05,C0061,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Machine Cafe,1,1550.88,878.06,25,Commercial_06,Especes
+S00214,2026-06-05,C0199,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,1,11239.58,8431.27,5,Commercial_03,Virement
+S00215,2026-08-27,C0217,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Classeur Metal,3,686.04,381.76,5,Commercial_05,Especes
+S00216,2026-06-08,C0188,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Lampe LED,1,446.29,206.55,10,Commercial_02,Paiement mobile
+S00217,2026-07-06,C0138,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Chaise Ergo,6,2046.55,1249.3,0,Commercial_07,Carte
+S00218,31/07/2026,C0125,Grand compte,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,6,404.67,219.7,15,Commercial_05,Virement
+S00219,2026-07-30,C0032,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,4,399.28,208.67,20,Commercial_06,Paiement mobile
+S00220,2026-05-11,C0154,Grand compte,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,5,438.85,220.91,10,Commercial_06,Carte
+S00221,2026/01/06,C0191,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,4,703.24,337.87,5,Commercial_01,Especes
+S00222,2026-06-06,C0022,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Classeur Metal,2,727.34,378.89,0,Commercial_08,Virement
+S00223,2026-01-11,C0029,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Laptop Pro 14,2,11220.04,8305.29,10,Commercial_07,Virement
+S00224,2026-03-26,C0121,Grand compte,Marrakech,Marrakech-Safi,En ligne,Electronique,Ecran 27,5,2926.85,1860.35,10,Commercial_01,Paiement mobile
+S00225,06/07/2026,C0246,Grand compte,Marrakech,Marrakech-Safi,Magasin,Electronique,Laptop Pro 14,8,11218.5,7951.82,0,Commercial_01,Especes
+S00226,2026-01-26,C0231,PME,Marrakech,Marrakech-Safi,Magasin,Accessoires,Power Bank,2,381.79,160.06,25,Commercial_07,Carte
+S00227,2026-04-30,C0019,grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Maison,Micro-ondes,10,1215.33,771.06,5,Commercial_11,Especes
+S00228,2026-06-05,C0038,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Tablette 10,2,3991.16,2739.54,0,Commercial_06,Paiement mobile
+S00229,2026-03-15,C0072,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Lampe LED,2,421.55,201.06,0,Commercial_05,Virement
+S00230,2026-03-07,C0133,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,1,682.75,405.6,10,Commercial_04,Especes
+S00231,2026-01-08,C0197,Particulier,Marrakech,Marrakech-Safi,En ligne,Accessoires,Power Bank,2,366.42,162.23,10,Commercial_05,Carte
+S00232,15/08/2026,C0069,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Laptop Pro 14,6,11690.96,8446.56,5,Commercial_04,Especes
+S00233,2026-04-16,C0117,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Power Bank,3,344.25,168.2,20,Commercial_08,Especes
+S00234,2026-05-03,C0224,Particulier,Fes,Fes-Meknes,En ligne,Electronique,Tablette 10,2,3683.58,2694.74,0,Commercial_05,Virement
+S00235,2026-08-20,C0047,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,1,11986.08,8532.95,0,Commercial_04,Carte
+S00236,2026-03-04,C0060,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,7,664.51,328.85,5,Commercial_07,Carte
+S00237,2026-05-11,C0032,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Classeur Metal,4,699.85,380.07,5,Commercial_06,Especes
+S00238,2026-06-21,C0041,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Aspirateur,2,1866.94,1247.26,10,Commercial_06,Carte
+S00239,27/06/2026,C0136,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Purificateur Air,2,2231.5,1443.83,0,Commercial_01,Virement
+S00240,2026-04-07,C0132,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Lampe LED,2,452.28,218.48,20,Commercial_04,Paiement mobile
+S00241,2026-08-20,C0213,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Machine Cafe,1,1367.38,828.96,10,Commercial_05,Carte
+S00242,2026-08-19,C0071,Particulier,Fes,Fes-Meknes,En ligne,Bureau,Lampe LED,3,435.45,221.19,10,Commercial_01,Carte
+S00243,2026/07/27,C0103,PME,Rabat,Rabat-Sale-Kenitra,En ligne ,Accessoires,Power Bank,4,381.44,155.9,10,Commercial_05,Virement
+S00244,2026-04-06,C0053,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Aspirateur,3,1808.23,1255.82,10,Commercial_05,Paiement mobile
+S00245,2026-06-25,C0057,PME,Casablanca,Casablanca-Settat,Commercial,Accessoires,Casque Bluetooth,6,700.73,326.93,35,Commercial_06,Paiement mobile
+S00246,26/06/2026,C0108,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,1,11286.43,8386.02,0,Commercial_07,Paiement mobile
+S00247,2026-08-03,C0014,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Lampe LED,2,410.63,215.2,5,Commercial_04,Virement
+S00248,2026-04-24,C0058,Grand compte,Fes,Fes-Meknes,Magasin,Bureau,Bureau Compact,6,1738.96,978.72,5,Commercial_08,Paiement mobile
+S00249,2026-08-03,C0126,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Souris Sans Fil,6,251.54,108.89,5,Commercial_03,Virement
+S00250,2026-03-18,C0181,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Tablette 10,2,3638.02,2556.55,15,Commercial_10,Virement
+S00251,2026-07-13,C0086,Particulier,Marrakech,Marrakech-Safi,En ligne,Maison,Machine Cafe,4,1511.52,883.7,10,Commercial_06,Paiement mobile
+S00252,2026-04-21,C0067,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,5,5845.3,4292.17,10,Commercial_07,Carte
+S00253,25/02/2026,C0238,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Smartphone X,2,6381.86,4191.7,5,Commercial_01,Virement
+S00254,2026/05/05,C0171,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Casque Bluetooth,1,735.34,318.96,0,Commercial_03,Carte
+S00255,2026-07-02,C0025,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau ,Bureau Compact,1,1751.85,994.87,10,Commercial_08,Virement
+S00256,2026-03-14,C0091,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Tablette 10,1,4138.38,2714.84,15,Commercial_04,Paiement mobile
+S00257,2026-05-14,C0207,PME,Fes,Fes-Meknes,En ligne,Maison,Micro-ondes,4,1233.18,805.09,10,Commercial_08,Especes
+S00258,2026-08-27,C0008,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Tablette 10,2,3828.99,2575.73,5,Commercial_02,Especes
+S00259,2026-08-19,C0225,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,4,703.96,346.54,10,Commercial_07,Virement
+S00260,24/03/2026,C0154,Grand compte,Fes,Fes-Meknes,En ligne,Maison,Micro-ondes,4,1272.11,738.52,0,Commercial_05,Carte
+S00261,2026-07-31,C0095,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,4,717.98,329.5,20,Commercial_08,Paiement mobile
+S00262,2026-01-26,C0174,PME,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,5,2369.93,1384.66,10,Commercial_08,Paiement mobile
+S00263,2026-02-27,C0201,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Souris Sans Fil,7,273.07,114.13,0,Commercial_07,Especes
+S00264,2026-04-13,C0001,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,1,2236.09,1251.23,5,Commercial_05,Paiement mobile
+S00265,2026/02/26,C0214,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Casque Bluetooth,4,719.52,318.02,15,Commercial_02,Paiement mobile
+S00266,2026-07-01,C0146,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Aspirateur,4,1861.88,1200.13,15,Commercial_08,Carte
+S00267,04/04/2026,C0049,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Ecran 27,1,2824.31,1790.42,0,Commercial_02,Paiement mobile
+S00268,2026-05-22,C0256,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Laptop Pro 14,2,11959.56,8521.63,10,Commercial_03,Especes
+S00269,2026-05-24,C0231,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Micro-ondes,1,1254.63,772.65,15,Commercial_06,Paiement mobile
+S00270,2026-07-18,C0086,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Laptop Pro 14,5,11547.26,8672.37,0,Commercial_03,Carte
+S00271,2026-05-09,C0001,PME,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,3,1407.86,898.78,0,Commercial_06,Paiement mobile
+S00272,2026-02-22,C0143,particulier,Marrakech,Marrakech-Safi,Commercial,Electronique,Smartphone X,4,6072.9,4523.18,5,Commercial_12,Virement
+S00273,2026-07-02,C0157,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Aspirateur,3,2043.42,1224.08,10,Commercial_06,Especes
+S00274,21/01/2026,C0231,Particulier,Marrakech,Marrakech-Safi,En ligne,Accessoires,Casque Bluetooth,4,701.05,318.45,5,Commercial_04,Especes
+S00275,2026-02-14,C0073,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Purificateur Air,2,2313.84,1434.74,0,Commercial_03,Especes
+S00276,2026/06/07,C0192,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Micro-ondes,2,1340.36,796.44,0,Commercial_05,Especes
+S00277,2026-05-30,C0199,Particulier,,Casablanca-Settat,En ligne,Bureau,Lampe LED,3,441.89,205.06,5,Commercial_02,Virement
+S00278,2026-06-14,C0024,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Micro-ondes,5,1362.97,776.61,20,Commercial_05,Virement
+S00279,2026-01-26,C0057,PME,Fes,Fes-Meknes,En ligne,Bureau,Chaise Ergo,4,2216.94,1223.77,0,Commercial_03,Paiement mobile
+S00280,2026-01-15,C0256,Particulier,Fes,Fes-Meknes,Commercial,Accessoires,Power Bank,5,354.48,155.62,10,Commercial_12,Paiement mobile
+S00281,10/02/2026,C0089,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,2,434.18,200.73,10,Commercial_04,Virement
+S00282,2026-04-26,C0212,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,5,1443.45,867.23,0,Commercial_02,Paiement mobile
+S00283,2026-07-17,C0014,Particulier,Fes,Fes-Meknes,Magasin,Bureau,Lampe LED,3,405.96,217.86,5,Commercial_02,Carte
+S00284,2026-01-27,C0165,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Aspirateur,4,1853.38,1156.45,0,Commercial_08,Especes
+S00285,2026-01-12,C0237,Particulier,Marrakech,Marrakech-Safi,Magasin,Accessoires,Casque Bluetooth,2,715.28,323.62,0,Commercial_04,Virement
+S00286,2026-04-28,C0159,Grand compte,Marrakech,Marrakech-Safi,Commercial,Maison,Purificateur Air,10,2152.72,1451.0,15,Commercial_05,Paiement mobile
+S00287,2026/06/14,C0211,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Power Bank,3,372.4,166.49,15,Commercial_02,Especes
+S00288,19/03/2026,C0256,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Souris Sans Fil,3,246.47,112.65,5,Commercial_02,Carte
+S00289,2026-08-02,C0075,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Tablette 10,4,4065.64,2534.01,10,Commercial_03,Especes
+S00290,2026-04-13,C0255,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Smartphone X,4,6165.74,4339.21,5,Commercial_06,Virement
+S00291,2026-08-04,C0081,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Machine Cafe,2,1517.56,848.95,5,Commercial_01,Carte
+S00292,2026-06-23,C0082,Particulier,,Casablanca-Settat,Commercial,Accessoires,Power Bank,2,367.77,158.1,15,Commercial_01,Carte
+S00293,2026-07-29,C0028,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,3,11573.81,8748.08,0,Commercial_04,Carte
+S00294,2026-03-04,C0142,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Laptop Pro 14,2,11832.03,8277.88,10,Commercial_04,Especes
+S00295,16/06/2026,C0189,Particulier,Fes,Fes-Meknes,commercial,Bureau,Lampe LED,2,392.37,211.98,0,Commercial_12,Virement
+S00296,2026-01-18,C0231,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,3,736.06,337.09,0,Commercial_05,Especes
+S00297,2026-08-17,C0121,Particulier,Casablanca,Casablanca-Settat,Commercial,Bureau,Lampe LED,1,432.81,205.29,5,Commercial_04,Carte
+S00298,2026/01/06,C0158,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Souris Sans Fil,3,261.08,108.66,15,Commercial_01,Paiement mobile
+S00299,2026-06-01,C0010,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Clavier Mecanique,3,594.21,284.7,10,Commercial_10,Virement
+S00300,2026-06-14,C0206,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,2,3989.21,2705.59,0,Commercial_08,Paiement mobile
+S00301,2026-07-27,C0201,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Power Bank,2,358.42,157.14,25,Commercial_03,Especes
+S00302,05/03/2026,C0054,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,3,1507.59,903.8,5,Commercial_07,Paiement mobile
+S00303,2026-07-20,C0040,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Smartphone X,3,6486.68,4506.34,15,Commercial_01,Virement
+S00304,2026-02-03,C0040,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Ecran 27,3,2960.68,1822.85,0,Commercial_09,Virement
+S00305,2026-02-20,C0226,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Aspirateur,5,2002.15,1195.42,15,Commercial_07,Carte
+S00306,2026-02-11,C0088,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Clavier Mecanique,1,576.01,262.11,0,Commercial_02,Carte
+S00307,2026-06-29,C0074,Particulier ,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,2,3634.75,2574.54,10,Commercial_04,Paiement mobile
+S00308,2026-05-02,C0150,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,5,12700.17,7921.84,0,Commercial_08,Especes
+S00309,16/03/2026,C0133,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Tablette 10,1,4204.17,2747.26,5,Commercial_04,Virement
+S00310,2026-02-10,C0017,PME,Marrakech,Marrakech-Safi,En ligne,Maison,Machine Cafe,4,1461.58,890.09,0,Commercial_08,Paiement mobile
+S00311,2026-01-25,C0143,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Tablette 10,1,3929.63,2770.3,10,Commercial_05,Especes
+S00312,2026-07-24,C0059,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Smartphone X,3,6278.01,4541.32,0,Commercial_01,Especes
+S00313,2026-02-04,C0102,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Power Bank,1,343.39,154.41,5,Commercial_04,Virement
+S00314,2026-06-27,C0165,Particulier,Fes,Fes-Meknes,Commercial,Maison,Aspirateur,4,1877.08,1270.83,0,Commercial_12,Carte
+S00315,2026-03-01,C0120,Particulier,Fes,Fes-Meknes,En ligne,Electronique,Ecran 27,1,2944.28,1738.3,0,Commercial_01,Virement
+S00316,31/03/2026,C0071,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Clavier Mecanique,4,554.12,262.32,15,Commercial_08,Paiement mobile
+S00317,2026-01-06,C0002,Particulier,Fes,Fes-Meknes,Magasin,Electronique,Tablette 10,1,4017.02,2523.92,5,Commercial_07,Especes
+S00318,2026-03-21,C0207,PME,Marrakech,Marrakech-Safi,Magasin,Accessoires,Power Bank,2,367.5,161.67,20,Commercial_02,Carte
+S00319,2026-06-30,C0238,Grand compte,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,1,12004.7,7926.47,5,Commercial_03,Carte
+S00320,2026/02/03,C0204,Grand compte,Casablanca,Casablanca-Settat,Commercial,Accessoires,Power Bank,5,334.85,155.42,15,Commercial_02,Carte
+S00321,2026-04-30,C0248,Particulier,Casablanca,Casablanca-Settat,Commercial,Bureau,Chaise Ergo,2,2162.51,1203.62,15,Commercial_06,Virement
+S00322,2026-08-09,C0096,PME,Fes,Fes-Meknes,En ligne,Maison,Machine Cafe,2,1491.57,848.04,10,Commercial_06,Virement
+S00323,28/04/2026,C0024,Particulier,Fes,Fes-Meknes,Commercial,Maison,Machine Cafe,4,1555.92,832.93,15,Commercial_12,Virement
+S00324,2026-06-25,C0129,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Smartphone X,2,5985.32,4318.8,20,Commercial_09,Paiement mobile
+S00325,2026-04-18,C0083,Particulier,Marrakech,Marrakech-Safi,Commercial,Accessoires,Clavier Mecanique,2,550.07,269.63,5,Commercial_05,Especes
+S00326,2026-05-19,C0197,Grand compte,Marrakech,Marrakech-Safi,En ligne,Electronique,Tablette 10,9,3839.42,2795.37,10,Commercial_02,Virement
+S00327,2026-04-15,C0084,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Ecran 27,2,2965.5,1782.87,10,Commercial_02,Especes
+S00328,2026-05-11,C0210,PME,Marrakech,Marrakech-Safi,En ligne,Electronique ,Ecran 27,5,2848.16,1825.54,10,Commercial_07,Paiement mobile
+S00329,2026-05-19,C0247,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Souris Sans Fil,3,266.64,106.54,0,Commercial_02,Carte
+S00330,09/03/2026,C0221,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,2,1390.76,860.36,0,Commercial_03,Virement
+S00331,2026/03/07,C0152,Grand compte,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,7,6406.35,4350.13,0,Commercial_03,Especes
+S00332,2026-01-16,C0171,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Tablette 10,4,3937.84,2622.78,10,Commercial_03,Virement
+S00333,2026-02-07,C0125,PME,Casablanca,Casablanca-Settat,En ligne,Maison,Purificateur Air,1,2128.53,1392.3,0,Commercial_08,Virement
+S00334,2026-04-04,C0145,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Bureau Compact,5,1796.46,1032.38,0,Commercial_07,Virement
+S00335,2026-02-14,C0074,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,7,715.29,387.33,10,Commercial_05,Especes
+S00336,2026-04-04,C0037,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Bureau Compact,3,1777.11,947.58,30,Commercial_02,Paiement mobile
+S00337,27/08/2026,C0037,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Bureau Compact,3,1707.57,1031.28,20,Commercial_04,Virement
+S00338,2026-05-05,C0118,PME,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,7,1953.54,1238.55,0,Commercial_03,Virement
+S00339,2026-05-10,C0078,Particulier,Marrakech,Marrakech-Safi,Commercial,Bureau,Bureau Compact,25,1800.6,950.34,5,Commercial_09,Paiement mobile
+S00340,2026-05-18,C0018,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,6,6566.62,4329.36,5,Commercial_08,Carte
+S00341,2026-05-16,C0103,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Bureau,Bureau Compact,1,1825.55,960.94,25,Commercial_11,Paiement mobile
+S00342,2026/06/11,C0204,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Lampe LED,1,433.36,204.4,15,Commercial_09,Virement
+S00343,2026-05-07,C0017,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,5,647.74,348.35,0,Commercial_06,Paiement mobile
+S00344,09/03/2026,C0013,PME,Marrakech,Marrakech-Safi,Commercial,Bureau,Classeur Metal,5,643.49,409.1,,Commercial_02,Virement
+S00345,2026-07-05,C0084,Particulier,Fes,Fes-Meknes,Magasin,Electronique,Smartphone X,1,6337.3,4519.04,0,Commercial_03,Especes
+S00346,2026-05-14,C0141,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Smartphone X,1,6359.52,4358.02,10,Commercial_08,Virement
+S00347,2026-05-28,C0171,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Smartphone X,1,6343.4,4419.71,10,Commercial_08,Carte
+S00348,2026-02-26,C0131,PME,Marrakech,Marrakech-Safi,Magasin,Maison,Machine Cafe,3,1368.62,918.99,0,Commercial_05,Especes
+S00349,2026-03-13,C0137,Particulier,Marrakech,Marrakech-Safi,Magasin,Maison,Machine Cafe,2,1456.49,847.69,15,Commercial_06,Paiement mobile
+S00350,2026-04-15,C0173,Particulier,Casa,Casablanca-Settat,Magasin,Electronique,Smartphone X,2,5879.84,4109.87,5,Commercial_03,Carte
+S00351,28/04/2026,C0012,Particulier,Marrakech,Marrakech-Safi,Magasin,Accessoires,Casque Bluetooth,4,722.62,318.83,25,,Carte
+S00352,2026-05-13,C0108,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Laptop Pro 14,7,12649.2,7890.89,15,Commercial_01,Paiement mobile
+S00353,2026/05/28,C0041,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,1,405.45,204.05,5,Commercial_04,Virement
+S00354,2026-07-07,C0236,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Maison,Micro-ondes,2,1309.99,738.67,5,Commercial_10,Virement
+S00355,2026-03-14,C0165,PME,Marrakech,Marrakech-Safi,Magasin,Accessoires,Power Bank,1,373.62,153.17,5,Commercial_01,Virement
+S00356,2026-02-25,C0127,PME,,Casablanca-Settat,En ligne,Accessoires,Souris Sans Fil,5,256.71,113.02,25,Commercial_01,Especes
+S00357,2026-08-11,C0076,PME,Casablanca,Casablanca-Settat,Commercial,Bureau,Classeur Metal,3,637.68,398.29,10,Commercial_09,Paiement mobile
+S00358,11/07/2026,C0102,Particulier,Fes,Fes-Meknes,Magasin,Bureau,Lampe LED,1,412.63,207.25,10,Commercial_04,Carte
+S00359,2026-06-17,C0161,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Chaise Ergo,1,2223.56,1269.19,10,Commercial_08,Virement
+S00360,2026-04-22,C0200,PME,Fes,Fes-Meknes,Commercial,Maison,Aspirateur,2,2044.23,1190.01,30,Commercial_01,Especes
+S00361,2026-07-30,C0146,Grand compte,Casablanca,Casablanca-Settat,Commercial,Accessoires,Casque Bluetooth,8,657.45,317.78,30,Commercial_03,Carte
+S00362,2026-05-05,C0191,Particulier,Fes,Fes-Meknes,En ligne,Maison,Aspirateur,4,1953.83,1257.98,25,Commercial_06,Carte
+S00363,2026-05-07,C0059,Grand compte,Casablanca,Casablanca-Settat,En ligne,BUREAU,Lampe LED,3,445.77,203.32,0,Commercial_02,Virement
+S00364,2026/02/15,C0225,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Chaise Ergo,1,2070.37,1319.13,15,Commercial_12,Paiement mobile
+S00365,22/07/2026,C0182,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Clavier Mecanique,1,593.13,266.93,0,Commercial_08,Carte
+S00366,2026-08-29,C0089,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Clavier Mecanique,5,594.39,286.16,5,Commercial_03,Paiement mobile
+S00367,2026-05-24,C0099,PME,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,3,2318.23,1487.35,10,Commercial_08,Especes
+S00368,2026-08-23,C0115,Particulier,Marrakech,Marrakech-Safi,En ligne,Bureau,Classeur Metal,1,730.61,397.08,10,Commercial_02,Virement
+S00369,2026-05-25,C0242,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Purificateur Air,2,2122.81,1507.19,10,Commercial_03,Carte
+S00370,2026-02-02,C0061,PME,Marrakech,Marrakech-Safi,Commercial,Electronique,Smartphone X,2,6637.26,4399.52,,Commercial_11,Paiement mobile
+S00371,2026-04-13,C0260,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Casque Bluetooth,5,723.93,346.53,15,Commercial_06,Paiement mobile
+S00372,23/05/2026,C0038,Grand compte,Casablanca,Casablanca-Settat,Magasin,Accessoires,Souris Sans Fil,6,256.61,105.85,10,Commercial_05,Paiement mobile
+S00373,2026-03-23,C0129,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,1,727.18,381.75,5,Commercial_04,Paiement mobile
+S00374,2026-04-02,C0226,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Lampe LED,2,393.95,219.57,10,Commercial_03,Virement
+S00375,2026/07/19,C0042,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Micro-ondes,3,1331.18,743.73,5,Commercial_01,Especes
+S00376,2026-08-03,C0199,Particulier,Fes,Fes-Meknes,En ligne,Maison,Micro-ondes,2,1375.55,777.72,5,Commercial_03,Especes
+S00377,2026-02-04,C0108,Particulier,Marrakech,Marrakech-Safi,Commercial,Electronique,Smartphone X,1,6031.31,4144.61,10,Commercial_03,Paiement mobile
+S00378,2026-04-04,C0048,Particulier,Rabat,Rabat-Sale-Kenitra,EN LIGNE,Electronique,Ecran 27,1,2907.14,1875.08,5,Commercial_02,Virement
+S00379,20/04/2026,C0254,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Purificateur Air,18,2323.45,1447.17,5,Commercial_07,Paiement mobile
+S00380,2026-02-25,C0188,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Ecran 27,5,3003.91,1900.54,0,Commercial_03,Especes
+S00381,2026-07-27,C0052,Grand compte,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,5,1538.65,881.33,,Commercial_07,Carte
+S00382,2026-02-07,C0259,PME,Fes,Fes-Meknes,En ligne,Bureau,Bureau Compact,4,1865.84,996.76,20,Commercial_03,Paiement mobile
+S00383,2026-02-10,C0256,Particulier,Casablanca ,Casablanca-Settat,En ligne,Accessoires,Power Bank,1,362.13,153.7,30,Commercial_04,Virement
+S00384,2026-04-08,C0084,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Bureau Compact,2,1708.9,1022.17,15,Commercial_06,Carte
+S00385,2026-06-07,C0149,Grand compte,Marrakech,Marrakech-Safi,Commercial,Electronique,Laptop Pro 14,8,11733.09,8101.5,10,Commercial_09,Carte
+S00386,09/01/2026,C0070,PME,Fes,Fes-Meknes,Magasin,Bureau,Lampe LED,4,405.19,220.13,5,Commercial_06,Carte
+S00387,2026-08-18,C0105,PME,Fes,Fes-Meknes,Magasin ,Electronique,Tablette 10,2,4165.36,2735.5,,Commercial_08,Paiement mobile
+S00388,2026-06-07,C0087,Particulier,Marrakech,Marrakech-Safi,Commercial,Electronique,Smartphone X,2,6557.1,4180.56,5,Commercial_06,Paiement mobile
+S00389,2026-06-15,C0163,Particulier,Fes,Fes-Meknes,Magasin,Bureau,Bureau Compact,1,1727.24,1026.28,0,Commercial_01,Carte
+S00390,2026-07-15,C0248,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Tablette 10,2,3635.79,2707.89,0,Commercial_06,Especes
+S00391,2026-04-15,C0146,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,2,3843.79,2552.4,25,Commercial_08,Carte
+S00392,2026-02-09,C0001,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Lampe LED,5,406.36,205.65,25,Commercial_05,Virement
+S00393,29/03/2026,C0126,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Micro-ondes,6,1258.23,784.18,20,Commercial_02,Carte
+S00394,2026-07-26,C0090,Particulier,Marrakech,Marrakech-Safi,Magasin,Maison,Aspirateur,1,1880.61,1183.24,10,Commercial_02,Carte
+S00395,2026-08-12,C0247,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Micro-ondes,1,1312.79,804.9,0,Commercial_08,Virement
+S00396,2026-08-08,C0210,Particulier,Fes,Fes-Meknes,Magasin,Electronique,Smartphone X,1,6347.41,4131.67,25,Commercial_01,Carte
+S00397,2026/05/13,C0079,Grand compte,Marrakech,Marrakech-Safi,En ligne,Electronique,Tablette 10,8,3936.56,2736.55,5,Commercial_03,Virement
+S00398,2026-08-17,C0220,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Machine Cafe,6,1474.86,879.4,5,Commercial_06,Virement
+S00399,2026-08-16,C0224,Grand compte,Casablanca,Casablanca-Settat,Magasin,Accessoires,Souris Sans Fil,3,244.76,113.07,15,,Paiement mobile
+S00400,02/06/2026,C0218,Particulier,Casablanca,Casablanca-Settat,Magasin ,Accessoires,Power Bank,2,351.61,163.63,0,Commercial_07,Carte
+S00401,2026-01-21,C0260,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Power Bank,1,367.71,168.4,15,Commercial_06,Virement
+S00402,2026-01-08,C0220,PME,Marrakech,Marrakech-Safi,Commercial,Bureau,Bureau Compact,4,1672.85,1019.99,10,Commercial_08,Especes
+S00403,2026-08-27,C0019,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Clavier Mecanique,4,572.87,257.4,20,Commercial_08,Paiement mobile
+S00404,2026-02-21,C0181,PME,Fès,Fes-Meknes,magasin,Accessoires,Casque Bluetooth,5,741.16,343.18,10,Commercial_08,Virement
+S00405,2026-03-23,C0116,PME,Marrakech,Marrakech-Safi,En ligne,Maison,Machine Cafe,3,1361.34,901.58,15,Commercial_08,Paiement mobile
+S00406,2026-06-15,C0018,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,1,2058.01,1244.24,0,Commercial_02,Virement
+S00407,24/05/2026,C0134,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Maison,Purificateur Air,8,2165.12,1412.83,5,Commercial_02,Especes
+S00408,2026/08/22,C0177,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Smartphone X,6,5839.2,4460.04,15,Commercial_01,Especes
+S00409,2026-03-25,C0238,Particulier,Marrakech,Marrakech-Safi,Commercial,Maison,Purificateur Air,3,2175.83,1414.49,0,Commercial_09,Paiement mobile
+S00410,2026-08-29,C0245,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Power Bank,4,369.62,166.8,5,Commercial_02,Especes
+S00411,2026-01-04,C0132,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,1,2285.47,1511.59,25,Commercial_07,Paiement mobile
+S00412,2026-04-17,C0238,Grand compte,Fes,Fes-Meknes,Magasin,Electronique,Smartphone X,2,6062.66,4369.51,25,Commercial_06,Virement
+S00413,2026-08-27,C0078,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Clavier Mecanique,3,544.59,256.97,0,Commercial_05,Virement
+S00414,27/06/2026,C0176,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Clavier Mecanique,2,549.52,265.59,30,Commercial_07,Especes
+S00415,2026-05-10,C0248,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Laptop Pro 14,2,11457.56,8073.42,10,Commercial_12,Virement
+S00416,2026-08-07,C0113,Grand compte,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Chaise Ergo,5,2238.69,1233.8,0,Commercial_01,Virement
+S00417,2026-07-30,C0250,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Souris Sans Fil,3,251.65,112.79,5,Commercial_08,Especes
+S00418,2026-04-09,C0216,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Tablette 10,2,3719.52,2553.0,5,Commercial_07,Virement
+S00419,2026/03/12,C0012,PME,Tanger ,Tanger-Tetouan-Al Hoceima,En ligne,Electronique,Tablette 10,2,3645.29,2542.06,,Commercial_05,Especes
+S00420,2026-02-04,C0029,PME,Marrakech,Marrakech-Safi,En ligne,Maison,Micro-ondes,5,1317.64,755.95,60,Commercial_01,Paiement mobile
+S00421,20/01/2026,C0237,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Micro-ondes,8,1256.01,775.55,0,Commercial_02,Carte
+S00422,2026-05-27,C0171,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,5,3906.64,2665.09,5,Commercial_06,Carte
+S00423,2026-06-08,C0230,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,2,1921.98,1267.65,10,Commercial_02,Virement
+S00424,2026-03-27,C0059,,Marrakech,Marrakech-Safi,Magasin,Electronique,Ecran 27,1,3016.44,1821.28,5,Commercial_07,Paiement mobile
+S00425,2026-03-08,C0170,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Casque Bluetooth,2,686.23,314.53,0,Commercial_08,Carte
+S00426,2026-02-01,C0258,Grand compte,Casablanca,Casablanca-Settat,Magasin,Accessoires,Power Bank,6,350.24,158.22,5,Commercial_02,Especes
+S00427,2026-05-23,C0089,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Ecran 27,2,2626.89,1888.2,0,Commercial_01,Paiement mobile
+S00428,25/02/2026,C0022,PME,Fes,Fes-Meknes,En ligne,Bureau,Bureau Compact,3,1688.67,1036.2,10,Commercial_03,Carte
+S00429,2026-06-15,C0145,Particulier,Fes,Fes-Meknes,Magasin,Electronique,Tablette 10,1,4008.22,2744.64,0,Commercial_06,Paiement mobile
+S00430,2026/07/12,C0167,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Micro-ondes,1,1214.96,754.4,15,Commercial_05,Especes
+S00431,2026-03-05,C0184,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Micro-ondes,2,1307.49,741.98,20,Commercial_01,Carte
+S00432,2026-07-06,C0067,PME,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,7,1414.45,873.99,30,Commercial_05,Virement
+S00433,2026-01-27,C0206,PME,Marrakech,Marrakech-Safi,Magasin,Accessoires,Casque Bluetooth,5,734.95,329.37,5,Commercial_01,Paiement mobile
+S00434,2026-01-24,C0143,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Ecran 27,1,2952.15,1718.25,25,Commercial_11,Paiement mobile
+S00435,05/02/2026,C0048,PME,Casablanca,Casablanca-Settat,Commercial,Maison,Purificateur Air,2,2164.45,1476.62,20,Commercial_07,Especes
+S00436,2026-08-27,C0092,Particulier,Fes,Fes-Meknes,En ligne,Electronique,Tablette 10,1,4121.55,2677.82,15,Commercial_03,Carte
+S00437,2026-04-14,C0184,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,6,1467.13,857.07,15,Commercial_03,Especes
+S00438,2026-03-23,C0126,PME,Fes,Fes-Meknes,Magasin,Bureau,Bureau Compact,3,1779.74,1036.54,5,Commercial_05,Especes
+S00439,2026-06-06,C0137,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Souris Sans Fil,2,252.47,110.99,10,Commercial_02,Paiement mobile
+S00440,2026-05-08,C0080,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Purificateur Air,2,2187.66,1413.18,0,Commercial_06,Virement
+S00441,2026/02/01,C0010,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Lampe LED,1,406.66,219.6,15,Commercial_08,Especes
+S00442,11/02/2026,C0180,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Laptop Pro 14,1,11861.01,8441.88,5,Commercial_07,Carte
+S00443,2026-04-08,C0192,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Smartphone X,3,6001.54,4384.6,10,Commercial_03,Especes
+S00444,2026-05-20,C0112,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Power Bank,3,369.61,164.81,5,Commercial_08,Paiement mobile
+S00445,2026-04-01,C0189,PME,Marrakech,Marrakech-Safi,En ligne,Accessoires,Clavier Mecanique,4,570.31,262.98,5,Commercial_06,Paiement mobile
+S00446,2026-04-15,C0057,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Power Bank,3,364.0,161.92,10,Commercial_01,Carte
+S00447,2026-06-19,C0176,Grand compte,Marrakech,Marrakech-Safi,Commercial,Electronique,Ecran 27,4,2949.56,1826.26,15,Commercial_06,Carte
+S00448,2026-03-18,C0177,PME,Fes,Fes-Meknes,Commercial,Accessoires,Casque Bluetooth,2,674.21,322.5,20,Commercial_09,Paiement mobile
+S00449,14/08/2026,C0139,Particulier,casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,1,4010.59,2528.93,10,Commercial_02,Paiement mobile
+S00450,2026-05-28,C0173,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,1,1781.84,1264.13,20,Commercial_04,Virement
+S00451,2026-06-03,C0208,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Souris Sans Fil,2,271.96,109.98,5,Commercial_07,Especes
+S00452,2026/05/29,C0102,Particulier,Marrakech,Marrakech-Safi,Commercial,Accessoires,Souris Sans Fil,1,274.36,105.49,5,Commercial_10,Virement
+S00453,2026-06-27,C0147,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,1,6080.16,4346.51,25,Commercial_05,Carte
+S00454,2026-01-03,C0226,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Purificateur Air,3,2397.99,1531.98,0,Commercial_02,Paiement mobile
+S00455,2026-03-31,C0115,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Bureau Compact,1,1840.53,968.54,10,Commercial_06,Carte
+S00456,12/06/2026,C0148,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,3,12095.5,8420.29,5,Commercial_05,Paiement mobile
+S00457,2026-04-26,C0024,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Laptop Pro 14,1,11414.28,8776.22,5,Commercial_11,Virement
+S00458,2026-06-06,C0007,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Tablette 10,3,4057.92,2564.58,0,Commercial_01,Virement
+S00459,2026-02-22,C0002,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,5,3003.25,1826.16,0,Commercial_08,Paiement mobile
+S00460,2026-06-14,C0176,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Laptop Pro 14,5,12634.93,8037.27,0,Commercial_03,Carte
+S00461,2026-01-29,C0243,Particulier,Marrakech,Marrakech-Safi,En ligne,Accessoires,Power Bank,1,380.28,161.63,5,Commercial_07,Virement
+S00462,2026-03-09,C0002,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Souris Sans Fil,3,262.16,109.23,0,Commercial_04,Carte
+S00463,19/03/2026,C0205,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Lampe LED,3,416.33,211.78,0,,Carte
+S00464,2026-07-29,C0141,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Power Bank,3,341.35,168.59,15,Commercial_05,Especes
+S00465,2026-03-02,C0103,PME,Marrakech,Marrakech-Safi,Magasin,Electronique,Tablette 10,1,3903.41,2628.8,0,Commercial_07,Especes
+S00466,2026-08-01,C0153,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Ecran 27,1,2974.17,1727.87,25,Commercial_03,Especes
+S00467,2026-02-14,C0156,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Ecran 27,4,2859.67,1771.82,0,Commercial_06,Carte
+S00468,2026-04-04,C0212,PME,Fes,Fes-Meknes,En ligne,Electronique,Laptop Pro 14,3,12415.88,8488.52,20,Commercial_02,Carte
+S00469,2026-05-09,C0096,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Bureau Compact,3,1699.59,1017.37,30,Commercial_06,Especes
+S00470,08/04/2026,C0026,,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Aspirateur,3,1780.37,1262.39,15,Commercial_05,Carte
+S00471,2026-04-19,C0180,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Purificateur Air,1,2112.56,1502.29,0,Commercial_08,Especes
+S00472,2026-01-16,C0130,Particulier,Fes,Fes-Meknes,Magasin,bureau,Bureau Compact,4,1872.1,976.33,0,Commercial_01,Carte
+S00473,2026-08-04,C0099,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Ecran 27,1,2825.44,1853.58,15,Commercial_03,Virement
+S00474,2026/08/13,C0167,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Souris Sans Fil,3,270.41,114.68,,Commercial_04,Especes
+S00475,2026-05-21,C0015,Particulier,Fes,Fes-Meknes,Magasin,Accessoires,Souris Sans Fil,1,249.19,114.68,20,Commercial_05,Especes
+S00476,2026-01-23,C0165,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Electronique,Smartphone X,3,5973.99,4541.19,15,Commercial_01,Paiement mobile
+S00477,02/06/2026,C0071,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Tablette 10,4,3776.56,2556.1,10,Commercial_08,Virement
+S00478,2026-08-12,C0056,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Tablette 10,5,3681.06,2595.09,5,Commercial_07,Especes
+S00479,2026-08-01,C0219,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Machine Cafe,2,1526.77,860.72,0,Commercial_12,Virement
+S00480,2026-01-27,C0222,PME,Fes,Fes-Meknes,Magasin,Bureau,Chaise Ergo,3,2040.8,1231.9,5,Commercial_08,Virement
+S00481,2026-01-07,C0080,Grand compte,Fes,Fes-Meknes,Magasin,Maison,Machine Cafe,7,1390.72,859.54,0,Commercial_04,Especes
+S00482,2026-03-25,C0088,Particulier,Fes,Fes-Meknes,En ligne,Bureau ,Bureau Compact,1,1636.08,1002.44,0,Commercial_08,Carte
+S00483,2026-02-10,C0224,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Souris Sans Fil,3,253.46,113.35,0,Commercial_03,Paiement mobile
+S00484,04/05/2026,C0123,Particulier,Fes,Fes-Meknes,En ligne,Electronique,Tablette 10,1,3890.76,2767.88,10,Commercial_06,Virement
+S00485,2026/06/03,C0260,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Laptop Pro 14,4,12481.88,8338.79,20,Commercial_05,Paiement mobile
+S00486,2026-04-06,C0109,PME,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Machine Cafe,1,1474.5,845.64,30,Commercial_09,Especes
+S00487,2026-02-21,C0054,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Aspirateur,10,1797.83,1237.09,5,Commercial_08,Paiement mobile
+S00488,2026-03-12,C0083,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,3,397.52,201.98,10,Commercial_02,Especes
+S00489,2026-08-28,C0219,PME,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,2,1382.74,887.66,15,Commercial_07,Carte
+S00490,2026-01-29,C0193,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Tablette 10,4,3809.46,2519.03,5,Commercial_05,Especes
+S00491,13/05/2026,C0249,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,1,6506.39,4392.09,5,Commercial_04,Carte
+S00492,2026-08-10,C0200,PME,Marrakech,Marrakech-Safi,Commercial,Maison,Purificateur Air,4,2098.06,1492.0,0,Commercial_09,Paiement mobile
+S00493,2026-04-23,C0012,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Laptop Pro 14,3,10992.0,8081.08,0,Commercial_01,Virement
+S00494,2026-07-18,C0258,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Ecran 27,2,2608.34,1806.11,5,Commercial_03,Paiement mobile
+S00495,2026-04-12,C0163,PME,Casablanca,Casablanca-Settat,En ligne,Maison,Machine Cafe,1,1399.93,918.85,0,Commercial_01,Carte
+S00496,2026/03/19,C0197,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Aspirateur,3,1795.6,1227.81,,Commercial_04,Especes
+S00497,2026-02-13,C0107,Particulier,Fes,Fes-Meknes,Commercial,Bureau,Bureau Compact,3,1710.13,1034.25,20,Commercial_01,Virement
+S00498,14/01/2026,C0177,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Ecran 27,2,2971.34,1781.57,10,Commercial_08,Paiement mobile
+S00499,2026-08-03,C0130,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Smartphone X,2,5787.54,4374.23,5,Commercial_07,Especes
+S00500,2026-02-02,C0255,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,3,2041.41,1250.17,0,Commercial_06,Carte
+S00501,2026-06-24,C0225,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Machine Cafe,10,1551.77,871.26,10,Commercial_06,Carte
+S00502,2026-05-12,C0089,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Purificateur Air,2,2400.11,1530.91,5,Commercial_05,Especes
+S00503,2026-01-01,C0136,Particulier,Marrakech,Marrakech-Safi,Commercial,Accessoires,Souris Sans Fil,2,275.02,113.98,10,Commercial_12,Paiement mobile
+S00504,2026-03-31,C0207,Particulier,Casablanca,Casablanca-Settat,En ligne,bureau,Bureau Compact,2,1684.64,936.45,0,Commercial_06,Especes
+S00505,22/06/2026,C0136,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Smartphone X,2,5852.45,4283.6,0,Commercial_06,Carte
+S00506,2026-04-26,C0122,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Smartphone X,3,5832.82,4159.25,15,Commercial_05,Virement
+S00507,2026/06/18,C0212,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Aspirateur,2,1850.75,1192.4,0,Commercial_04,Especes
+S00508,2026-04-08,C0086,Grand compte,Casablanca,Casablanca-Settat,Magasin,Maison,Micro-ondes,10,1313.13,737.77,0,Commercial_07,Carte
+S00509,2026-04-05,C0028,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Smartphone X,4,6575.85,4290.27,10,Commercial_12,Virement
+S00510,2026-06-02,C0223,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Power Bank,2,373.6,156.16,5,Commercial_07,Carte
+S00511,2026-08-30,C0200,PME,Fes,Fes-Meknes,Magasin,Bureau,Chaise Ergo,5,2051.45,1257.53,5,Commercial_04,Carte
+S00512,31/01/2026,C0047,Particulier,Fes,Fes-Meknes,Magasin,Accessoires,Clavier Mecanique,4,581.15,282.54,15,Commercial_03,Carte
+S00513,2026-06-26,C0248,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Bureau,Lampe LED,1,411.97,199.57,5,Commercial_01,Especes
+S00514,2026-01-05,C0193,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Smartphone X,4,6549.03,4499.86,25,Commercial_06,Paiement mobile
+S00515,2026-08-14,C0059,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Casque Bluetooth,2,681.76,321.02,5,Commercial_05,Carte
+S00516,2026-03-22,C0242,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Purificateur Air,3,2222.22,1421.8,5,Commercial_07,Virement
+S00517,2026-02-20,C0122,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Aspirateur,2,1931.1,1195.0,5,Commercial_06,Carte
+S00518,2026/08/01,C0063,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,2,1864.4,1224.75,30,Commercial_08,Paiement mobile
+S00519,07/03/2026,C0034,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Smartphone X,1,5904.57,4469.27,20,Commercial_06,Carte
+S00520,2026-02-01,C0060,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Classeur Metal,2,679.06,397.79,5,Commercial_08,Especes
+S00521,2026-03-23,C0078,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Laptop Pro 14,8,12062.77,8384.65,25,Commercial_07,Virement
+S00522,2026-06-06,C0172,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Souris Sans Fil,1,244.46,105.41,5,Commercial_03,Virement
+S00523,2026-03-02,C0050,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,4,2190.5,1255.5,0,Commercial_02,Carte
+S00524,2026-06-09,C0233,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Power Bank,1,366.82,167.21,15,Commercial_03,Carte
+S00525,2026-08-06,C0164,PME,Casablanca,Casablanca-Settat,Commercial,Electronique,Ecran 27,6,2792.3,1870.3,5,Commercial_11,Carte
+S00526,23/02/2026,C0011,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,5,353.45,166.21,0,Commercial_07,Especes
+S00527,2026-05-24,C0245,Particulier,Marrakech,Marrakech-Safi,Magasin,accessoires,Clavier Mecanique,4,542.14,261.01,20,Commercial_07,Especes
+S00528,2026-06-29,C0096,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Maison,Purificateur Air,6,2413.25,1458.56,15,Commercial_05,Virement
+S00529,2026/07/31,C0067,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial ,Maison,Aspirateur,1,2034.57,1151.68,10,Commercial_07,Carte
+S00530,2026-01-06,C0007,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Souris Sans Fil,2,251.82,108.17,10,Commercial_07,Carte
+S00531,2026-03-08,C0027,Particulier,Fes,Fes-Meknes,Commercial,Accessoires,Clavier Mecanique,1,596.21,278.63,30,Commercial_02,Paiement mobile
+S00532,2026-04-13,C0215,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Bureau,Bureau Compact,2,1840.66,960.7,15,Commercial_02,Paiement mobile
+S00533,28/06/2026,C0184,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires ,Souris Sans Fil,1,273.7,115.58,10,Commercial_03,Carte
+S00534,2026-02-18,C0143,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Electronique,Laptop Pro 14,3,10982.18,7902.69,0,Commercial_04,Carte
+S00535,2026-02-24,C0227,Grand compte,Fes,Fes-Meknes,Magasin,Electronique,Laptop Pro 14,8,11082.57,8718.26,10,Commercial_06,Paiement mobile
+S00536,2026-05-12,C0247,PME,Marrakech,Marrakech-Safi,Magasin,Electronique,Smartphone X,7,6075.97,4373.21,5,Commercial_05,Virement
+S00537,2026-01-27,C0014,Particulier,Fes,Fes-Meknes,En ligne,Maison,Machine Cafe,3,1425.36,852.29,5,Commercial_02,Especes
+S00538,2026-06-17,C0153,Grand compte,Marrakech,Marrakech-Safi,Magasin,Accessoires,Casque Bluetooth,5,686.37,332.83,5,Commercial_08,Virement
+S00539,2026-02-01,C0146,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Power Bank,3,357.27,152.8,0,Commercial_04,Carte
+S00540,02/08/2026,C0239,PME,Fes,Fes-Meknes,Commercial,Bureau,Chaise Ergo,6,2133.98,1203.6,0,Commercial_02,Especes
+S00541,2026-08-07,C0161,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Smartphone X,4,6015.28,4236.51,10,Commercial_03,Virement
+S00542,2026-02-14,C0202,Particulier,Marrakech,Marrakech-Safi,Magasin,Accessoires,Clavier Mecanique,5,546.6,261.9,10,Commercial_05,Especes
+S00543,2026-08-04,C0204,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Classeur Metal,1,666.64,400.99,0,Commercial_05,Especes
+S00544,2026-01-30,C0027,Particulier,Marrakech,Marrakech-Safi,Magasin,Bureau,Bureau Compact,1,1630.78,1010.71,15,Commercial_04,Especes
+S00545,2026-03-09,C0093,Particulier,Casablanca,Casablanca-Settat,Commercial,Electronique,Smartphone X,2,5972.55,4214.07,0,Commercial_09,Especes
+S00546,2026-05-21,C0241,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,5,6314.89,4194.14,5,Commercial_08,Virement
+S00547,24/06/2026,C0109,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,2,11616.63,8497.87,0,Commercial_01,Especes
+S00548,2026-06-22,C0246,PME,Fes,Fes-Meknes,Magasin,Accessoires,Souris Sans Fil,3,274.09,111.81,15,Commercial_01,Especes
+S00549,2026-03-31,C0227,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Laptop Pro 14,1,12411.33,7894.83,5,Commercial_04,Virement
+S00550,2026-08-28,C0016,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Clavier Mecanique,3,543.17,279.35,10,Commercial_02,Paiement mobile
+S00551,2026/02/02,C0046,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,1,386.6,153.68,15,Commercial_02,Carte
+S00552,2026-03-15,C0053,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Laptop Pro 14,4,11695.4,8613.75,0,Commercial_08,Virement
+S00553,2026-08-29,C0044,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Purificateur Air,1,2254.18,1514.88,0,Commercial_03,Paiement mobile
+S00554,14/04/2026,C0166,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Maison,Aspirateur,1,2007.05,1233.67,0,Commercial_09,Paiement mobile
+S00555,2026-08-29,C0175,Grand compte,Casablanca,Casablanca-Settat,En ligne,Maison ,Purificateur Air,8,2406.76,1401.13,0,Commercial_08,Especes
+S00556,2026-06-01,C0211,Particulier,Marrakech,Marrakech-Safi,Commercial,Electronique,Tablette 10,2,4050.76,2670.87,0,Commercial_01,Especes
+S00557,2026-07-24,C0224,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Maison,Micro-ondes,5,1303.6,750.5,0,Commercial_09,Paiement mobile
+S00558,2026-04-22,C0177,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Chaise Ergo,22,2134.53,1291.38,10,Commercial_01,Paiement mobile
+S00559,2026-02-14,C0074,Grand compte,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,5,2010.1,1157.96,5,Commercial_06,Carte
+S00560,2026-04-13,C0167,Particulier,Fes,Fes-Meknes,En ligne,Maison,Machine Cafe,2,1530.27,869.55,5,Commercial_01,Carte
+S00561,27/05/2026,C0202,Particulier,Casablanca,Casablanca-Settat,Commercial,Bureau,Chaise Ergo,4,2265.42,1283.89,0,Commercial_05,Paiement mobile
+S00562,2026/02/20,C0245,Particulier,Fes,Fes-Meknes,Magasin,Maison,Aspirateur,3,1768.81,1164.92,20,Commercial_01,Paiement mobile
+S00563,2026-06-29,C0036,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Aspirateur,2,2012.77,1167.74,15,Commercial_05,Paiement mobile
+S00564,2026-03-13,C0142,Particulier,Fes,Fes-Meknes,Commercial,Maison,Micro-ondes,2,1327.46,769.92,5,Commercial_12,Especes
+S00565,2026-05-27,C0214,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau ,Bureau Compact,5,1857.59,941.65,20,Commercial_06,Carte
+S00566,2026-08-09,C0122,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires ,Souris Sans Fil,3,252.66,108.26,30,Commercial_04,Paiement mobile
+S00567,2026-03-20,C0034,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Laptop Pro 14,3,11238.58,8343.27,5,Commercial_01,Paiement mobile
+S00568,04/04/2026,C0117,Particulier,Fes,Fes-Meknes,Magasin,Accessoires,Casque Bluetooth,3,699.57,331.09,15,Commercial_01,Paiement mobile
+S00569,2026-06-25,C0037,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,1,420.32,202.54,0,Commercial_04,Especes
+S00570,2026-06-16,C0021,PME,Fes,Fes-Meknes,Magasin,Bureau,Classeur Metal,6,716.71,410.93,0,Commercial_05,Especes
+S00571,2026-04-17,C0019,Particulier,Rabat,Rabat-Sale-Kenitra,EN LIGNE,Electronique,Tablette 10,2,3987.29,2692.75,20,Commercial_06,Virement
+S00572,2026-05-02,C0259,Particulier,Casablanca,Casablanca-Settat,MAGASIN,Electronique,Laptop Pro 14,2,11912.78,8105.58,5,Commercial_08,Paiement mobile
+S00573,2026/01/30,C0255,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Clavier Mecanique,6,597.86,282.27,15,Commercial_07,Paiement mobile
+S00574,2026-05-10,C0008,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Tablette 10,4,4146.99,2748.53,0,Commercial_02,Especes
+S00575,25/06/2026,C0239,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,3,2755.51,1903.06,0,Commercial_03,Paiement mobile
+S00576,2026-07-07,C0236,PME,Marrakech,Marrakech-Safi,Magasin,Electronique,Tablette 10,5,4196.84,2712.2,10,Commercial_06,Carte
+S00577,2026-08-18,C0155,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Tablette 10,3,3929.68,2636.32,45,Commercial_11,Virement
+S00578,2026-04-01,C0067,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Classeur Metal,2,636.7,370.77,5,Commercial_03,Paiement mobile
+S00579,2026-03-26,C0072,Grand compte,Casablanca,Casablanca-Settat,Commercial,Maison,Micro-ondes,5,1370.21,735.52,10,Commercial_11,Carte
+S00580,2026-01-27,C0208,Particulier,Fes,Fes-Meknes,Magasin,Electronique,Laptop Pro 14,1,11930.96,8337.08,5,Commercial_07,Especes
+S00581,2026-07-08,C0203,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Power Bank,3,381.33,162.71,0,Commercial_02,Especes
+S00582,02/04/2026,C0131,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,2,357.85,163.7,5,Commercial_05,Especes
+S00583,2026-05-14,C0178,PME,Marrakech,Marrakech-Safi,Magasin,Maison,Machine Cafe,6,1420.54,867.85,0,Commercial_08,Carte
+S00584,2026/07/04,C0251,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,2,1418.09,851.06,5,Commercial_08,Especes
+S00585,2026-02-10,C0231,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Casque Bluetooth,1,730.74,342.04,10,Commercial_08,Carte
+S00586,2026-03-02,C0023,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Bureau Compact,3,1875.24,977.95,15,Commercial_07,Carte
+S00587,2026-01-24,C0075,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Clavier Mecanique,2,553.2,276.25,15,Commercial_08,Paiement mobile
+S00588,2026-04-04,C0007,,Marrakech,Marrakech-Safi,En ligne,Bureau,Bureau Compact,5,1829.61,980.0,30,Commercial_02,Especes
+S00589,18/01/2026,C0172,Particulier,Casablanca,Casablanca-Settat,Commercial,Accessoires,Clavier Mecanique,2,552.16,281.85,0,Commercial_08,Especes
+S00590,2026-03-28,C0215,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,1,1499.03,908.25,15,Commercial_06,Especes
+S00591,2026-02-15,C0159,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Power Bank,2,345.84,165.34,10,Commercial_04,Paiement mobile
+S00592,2026-05-17,C0038,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Classeur Metal,1,699.46,375.16,10,Commercial_04,Especes
+S00593,2026-02-11,C0206,Particulier,Fes,Fes-Meknes,Magasin,Electronique,Ecran 27,2,2695.39,1763.57,15,Commercial_01,Virement
+S00594,2026-01-31,C0030,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,8,2875.23,1881.89,0,Commercial_06,Carte
+S00595,2026/07/15,C0232,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Souris Sans Fil,2,247.73,106.87,0,Commercial_05,Virement
+S00596,25/02/2026,C0240,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Power Bank,3,351.15,169.51,0,Commercial_04,Carte
+S00597,2026-06-12,C0202,Particulier,Marrakech,Marrakech-Safi,En ligne,Maison,Purificateur Air,2,2308.89,1433.58,25,Commercial_05,Carte
+S00598,2026-05-04,C0255,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,1,2167.1,1465.29,0,Commercial_05,Virement
+S00599,2026-07-17,C0213,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Aspirateur,5,1899.33,1252.13,0,Commercial_08,Carte
+S00600,2026-04-27,C0107,particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Classeur Metal,2,656.14,389.85,10,Commercial_08,Carte
+S00601,2026-05-23,C0201,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Purificateur Air,3,2357.84,1387.86,10,Commercial_07,Virement
+S00602,2026-02-06,C0113,Particulier,Fes,Fes-Meknes,Magasin,Maison,Purificateur Air,2,2313.4,1504.58,5,Commercial_02,Especes
+S00603,26/02/2026,C0023,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Chaise Ergo,3,2103.61,1250.22,10,Commercial_01,Paiement mobile
+S00604,2026-03-07,C0014,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,4,344.02,161.73,15,Commercial_06,Especes
+S00605,2026-02-19,C0077,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,3,703.41,404.17,20,Commercial_02,Virement
+S00606,2026/05/01,C0056,PME,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Ecran 27,5,2943.32,1798.0,10,Commercial_05,Especes
+S00607,2026-08-13,C0037,PME,Casablanca,Casablanca-Settat,Commercial,Accessoires,Clavier Mecanique,7,583.16,261.82,0,Commercial_11,Virement
+S00608,2026-02-12,C0081,Particulier,Fes,Fes-Meknes,En ligne,Electronique,Ecran 27,1,2850.63,1815.69,0,Commercial_04,Especes
+S00609,2026-01-22,C0045,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Purificateur Air,2,2305.18,1489.92,10,Commercial_05,Especes
+S00610,14/08/2026,C0247,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Machine Cafe,1,1544.86,838.07,10,Commercial_02,Paiement mobile
+S00611,2026-08-04,C0142,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,1,666.34,379.49,5,Commercial_03,Especes
+S00612,2026-08-03,C0209,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,2,1372.28,888.69,10,Commercial_07,Virement
+S00613,2026-07-13,C0004,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,3,2326.87,1435.19,20,Commercial_07,Carte
+S00614,2026-08-16,C0056,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Classeur Metal,2,718.44,376.89,20,Commercial_05,Paiement mobile
+S00615,2026-03-07,C0247,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Chaise Ergo,5,2036.82,1311.51,10,Commercial_07,Paiement mobile
+S00616,2026-07-31,C0051,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Laptop Pro 14,4,12117.8,8215.8,0,Commercial_01,Especes
+S00617,05/04/2026,C0085,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Casque Bluetooth,3,690.94,342.11,15,Commercial_02,Virement
+S00618,2026-05-31,C0156,Grand compte,Casablanca,Casablanca-Settat,Commercial,Maison,Aspirateur,4,2030.12,1196.88,0,Commercial_10,Carte
+S00619,2026-07-23,C0038,Grand compte,Casablanca,Casablanca-Settat,En ligne,Accessoires,Clavier Mecanique,8,545.73,266.24,10,Commercial_07,Paiement mobile
+S00620,2026-07-06,C0208,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,4,642.26,336.37,0,Commercial_03,Especes
+S00621,2026-04-28,C0171,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Souris Sans Fil,3,246.37,112.96,10,Commercial_04,Virement
+S00622,2026-07-15,C0061,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Micro-ondes,2,1227.56,803.28,15,Commercial_06,Carte
+S00623,2026-03-27,C0257,PME,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Purificateur Air,4,2428.35,1440.06,20,Commercial_11,Especes
+S00624,22/08/2026,C0194,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Casque Bluetooth,5,660.95,343.03,0,Commercial_05,Especes
+S00625,2026-06-12,C0094,Particulier,,Casablanca-Settat,Commercial,Bureau,Lampe LED,1,450.4,217.12,0,Commercial_06,Especes
+S00626,2026-01-03,C0147,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Lampe LED,1,428.54,207.18,15,Commercial_06,Virement
+S00627,2026-04-26,C0134,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,4,2198.69,1288.91,0,Commercial_06,Especes
+S00628,2026/04/28,C0253,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,2,729.43,378.18,10,Commercial_07,Carte
+S00629,2026-06-15,C0087,PME,Casablanca,Casablanca-Settat,Commercial,Maison,Micro-ondes,5,1386.09,730.25,15,Commercial_02,Virement
+S00630,2026-02-24,C0246,Particulier,Casa,Casablanca-Settat,Commercial,Electronique,Tablette 10,1,3856.0,2586.7,10,Commercial_06,Paiement mobile
+S00631,08/03/2026,C0047,Grand compte,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Smartphone X,7,6171.36,4229.07,10,Commercial_03,Virement
+S00632,2026-02-10,C0180,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Clavier Mecanique,3,619.84,280.17,0,Commercial_02,Carte
+S00633,2026-03-28,C0026,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Ecran 27,3,2899.37,1836.35,20,Commercial_07,Virement
+S00634,2026-07-16,C0142,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Purificateur Air,3,2312.14,1448.75,10,Commercial_05,Carte
+S00635,2026-01-22,C0253,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Power Bank,1,338.83,155.49,20,Commercial_06,Paiement mobile
+S00636,2026-04-30,C0018,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Micro-ondes,5,1386.36,784.84,0,Commercial_06,Especes
+S00637,2026-05-28,C0182,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Casque Bluetooth,1,721.18,315.71,0,Commercial_03,Virement
+S00638,02/02/2026,C0134,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Tablette 10,5,3723.39,2760.23,0,Commercial_09,Carte
+S00639,2026/01/17,C0218,Particulier,Marrakech,Marrakech-Safi,magasin,Accessoires,Clavier Mecanique,5,597.67,285.51,5,Commercial_06,Virement
+S00640,2026-05-14,C0002,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Casque Bluetooth,2,662.61,329.96,15,Commercial_08,Especes
+S00641,2026-01-24,C0117,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Aspirateur,5,1942.83,1158.21,0,Commercial_03,Paiement mobile
+S00642,2026-06-23,C0124,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Maison,Micro-ondes,4,1367.25,792.43,25,Commercial_04,Paiement mobile
+S00643,2026-03-08,C0206,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Bureau Compact,4,1725.64,1008.0,5,Commercial_03,Carte
+S00644,2026-02-22,C0017,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Clavier Mecanique,35,550.53,283.71,10,Commercial_07,Virement
+S00645,06/03/2026,C0103,Grand compte,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Laptop Pro 14,6,12363.47,8455.97,20,Commercial_07,Virement
+S00646,2026-02-05,C0182,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Casque Bluetooth,3,672.82,316.0,20,Commercial_02,Especes
+S00647,2026-03-15,C0193,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Tablette 10,2,3916.21,2558.63,10,Commercial_05,Virement
+S00648,2026-02-28,C0063,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Smartphone X,1,6492.4,4315.86,20,Commercial_03,Carte
+S00649,2026-07-25,C0109,PME,Marrakech ,Marrakech-Safi,Commercial,Maison,Micro-ondes,5,1309.41,786.58,15,Commercial_05,Virement
+S00650,2026/07/05,C0061,Particulier,Fes,Fes-Meknes,Magasin,Bureau,Classeur Metal,2,691.74,410.11,5,Commercial_02,Especes
+S00651,2026-04-07,C0208,Particulier,Fes,Fes-Meknes,Magasin,Bureau,Classeur Metal,1,674.77,392.03,0,Commercial_02,Carte
+S00652,11/01/2026,C0026,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Tablette 10,4,3848.37,2653.72,5,Commercial_03,Especes
+S00653,2026-01-07,C0165,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Clavier Mecanique,4,602.26,281.56,20,Commercial_08,Especes
+S00654,2026-01-24,C0141,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Ecran 27,1,2820.0,1864.78,10,Commercial_07,Especes
+S00655,2026-04-26,C0228,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,3,2819.15,1816.53,10,Commercial_01,Especes
+S00656,2026-03-28,C0251,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Power Bank,1,376.5,157.24,5,Commercial_02,Carte
+S00657,2026-01-12,C0188,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Classeur Metal,3,666.87,378.7,20,Commercial_08,Carte
+S00658,2026-01-13,C0163,Particulier,Marrakech,Marrakech-Safi,En ligne,Bureau,Classeur Metal,3,682.7,392.95,0,Commercial_02,Paiement mobile
+S00659,17/06/2026,C0032,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Casque Bluetooth,1,727.01,316.9,15,Commercial_04,Especes
+S00660,2026-02-04,C0213,PME,Fes,Fes-Meknes,Commercial,Accessoires,Casque Bluetooth,6,656.29,313.75,5,Commercial_07,Paiement mobile
+S00661,2026/05/22,C0234,Particulier,Casablanca,Casablanca-Settat,magasin,Maison,Aspirateur,1,1929.99,1171.48,20,Commercial_02,Paiement mobile
+S00662,2026-06-22,C0067,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Tablette 10,1,3974.32,2534.52,0,,Especes
+S00663,2026-07-16,C0193,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Clavier Mecanique,5,549.14,272.06,20,Commercial_04,Especes
+S00664,2026-04-03,C0050,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Souris Sans Fil,1,279.28,114.31,15,Commercial_03,Paiement mobile
+S00665,2026-08-30,C0123,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Bureau Compact,1,1772.46,1015.88,25,Commercial_11,Especes
+S00666,31/01/2026,C0067,Particulier,Casablanca,Casablanca-Settat,Commercial,Bureau,Chaise Ergo,4,2237.91,1310.45,5,Commercial_09,Paiement mobile
+S00667,2026-02-05,C0256,Grand compte,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Laptop Pro 14,6,12711.2,8728.98,15,Commercial_03,Paiement mobile
+S00668,2026-07-27,C0086,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Ecran 27,2,2604.42,1763.37,0,Commercial_05,Carte
+S00669,2026-05-17,C0149,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Casque Bluetooth,2,647.28,321.38,10,Commercial_03,Carte
+S00670,2026-04-21,C0023,Particulier,Casablanca,Casablanca-Settat,Commercial,Accessoires,Casque Bluetooth,2,744.53,322.93,15,Commercial_02,Especes
+S00671,2026-01-13,C0090,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Purificateur Air,9,2391.22,1411.71,15,Commercial_03,Carte
+S00672,2026/01/06,C0024,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Clavier Mecanique,2,587.37,259.39,5,Commercial_01,Paiement mobile
+S00673,09/01/2026,C0203,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Electronique,Smartphone X,4,6100.64,4361.9,0,Commercial_06,Especes
+S00674,2026-05-20,C0222,Particulier,Marrakech ,Marrakech-Safi,En ligne,Accessoires,Power Bank,4,345.05,154.0,0,Commercial_03,Especes
+S00675,2026-04-05,C0126,Grand compte,Casablanca,Casablanca-Settat,Commercial,Maison,Aspirateur,7,1866.83,1211.82,5,Commercial_03,Virement
+S00676,2026-01-31,C0188,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Clavier Mecanique,6,618.68,282.53,20,Commercial_01,Virement
+S00677,2026-01-03,C0071,PME,Fes,Fes-Meknes,En ligne ,Bureau,Bureau Compact,4,1678.52,998.98,0,Commercial_02,Especes
+S00678,2026-02-26,C0198,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Bureau,Classeur Metal,3,673.06,380.67,0,Commercial_07,Virement
+S00679,2026-07-22,C0096,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Lampe LED,1,401.79,210.2,20,Commercial_07,Virement
+S00680,08/04/2026,C0081,Grand compte,Marrakech,Marrakech-Safi,Magasin,Bureau,Lampe LED,10,397.19,213.13,5,Commercial_08,Virement
+S00681,2026-05-17,C0018,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Clavier Mecanique,2,555.18,266.01,25,Commercial_01,Especes
+S00682,2026-06-19,C0070,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Laptop Pro 14,1,11302.13,8724.53,5,Commercial_06,Virement
+S00683,2026/03/27,C0070,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Lampe LED,3,447.65,202.55,0,Commercial_01,Paiement mobile
+S00684,2026-04-18,C0026,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Laptop Pro 14,1,12516.51,8054.86,5,Commercial_08,Especes
+S00685,2026-01-03,C0067,Particulier,Fes,Fes-Meknes,magasin,Maison,Aspirateur,1,1862.69,1175.39,5,Commercial_04,Carte
+S00686,2026-07-24,C0125,PME,Fes,Fes-Meknes,Commercial,Accessoires,Clavier Mecanique,1,570.0,262.37,10,Commercial_07,Paiement mobile
+S00687,07/06/2026,C0161,PME,Rabat,Rabat-Sale-Kenitra,Magasin,ELECTRONIQUE,Ecran 27,2,2941.89,1906.06,0,Commercial_03,Especes
+S00688,2026-03-15,C0164,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,2,370.23,158.55,0,Commercial_04,Especes
+S00689,2026-08-04,C0026,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,2,692.34,395.14,0,Commercial_07,Especes
+S00690,2026-04-28,C0189,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Laptop Pro 14,3,11327.05,8064.68,5,Commercial_07,Especes
+S00691,2026-04-30,C0027,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,4,11779.74,8157.11,20,Commercial_03,Virement
+S00692,2026-04-04,C0224,PME,Marrakech,Marrakech-Safi,Magasin,Maison,Purificateur Air,7,2277.93,1426.16,5,Commercial_05,Virement
+S00693,2026-06-17,C0221,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,1,2389.03,1421.37,20,Commercial_06,Paiement mobile
+S00694,11/08/2026,C0142,Particulier,Marrakesh,Marrakech-Safi,Magasin,Maison,Micro-ondes,1,1297.51,787.93,5,Commercial_08,Paiement mobile
+S00695,2026-06-24,C0247,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Souris Sans Fil,3,250.69,111.35,10,Commercial_03,Carte
+S00696,2026-07-22,C0210,PME,Casablanca ,Casablanca-Settat,Magasin,Maison,Purificateur Air,6,2348.56,1421.95,20,Commercial_02,Especes
+S00697,2026-05-25,C0189,PME,Casablanca,Casablanca-Settat,En ligne,Maison,Micro-ondes,6,1394.09,780.89,0,Commercial_04,Paiement mobile
+S00698,2026-04-14,C0219,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Souris Sans Fil,4,275.13,106.02,15,Commercial_07,Carte
+S00699,2026-02-18,C0189,Particulier,Fes,Fes-Meknes,Commercial,Bureau,Bureau Compact,4,1750.74,1034.69,15,Commercial_10,Virement
+S00700,2026-08-26,C0250,Particulier,Fes,Fes-Meknes,En ligne,Maison,Purificateur Air,1,2242.54,1464.67,20,Commercial_01,Especes
+S00701,28/04/2026,C0111,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Micro-ondes,1,1308.06,727.06,10,Commercial_07,Paiement mobile
+S00702,2026-05-11,C0134,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Tablette 10,3,3851.81,2602.43,25,Commercial_03,Carte
+S00703,2026-02-16,C0017,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Power Bank,1,370.84,166.35,0,Commercial_04,Paiement mobile
+S00704,2026-06-01,C0200,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,5,662.68,334.8,20,Commercial_05,Especes
+S00705,2026/03/01,C0229,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Maison,Machine Cafe,3,1523.79,848.7,5,Commercial_06,Virement
+S00706,2026-01-13,C0119,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Classeur Metal,6,703.96,407.67,5,Commercial_02,Carte
+S00707,2026-02-26,C0057,Particulier,Fes,Fes-Meknes,Magasin,Bureau,Lampe LED,1,406.11,208.56,5,Commercial_05,Carte
+S00708,08/04/2026,C0237,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Maison,Micro-ondes,7,1224.75,726.19,10,Commercial_07,Virement
+S00709,2026-06-27,C0131,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Machine Cafe,9,1495.37,890.43,0,Commercial_02,Paiement mobile
+S00710,2026-03-07,C0237,Grand compte,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,2,4002.16,2600.37,0,Commercial_08,Especes
+S00711,2026-01-19,C0127,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires ,Casque Bluetooth,2,694.72,319.1,15,Commercial_04,Especes
+S00712,2026-05-20,C0015,PME,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Tablette 10,2,3979.29,2756.02,20,Commercial_01,Especes
+S00713,2026-06-21,C0030,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Machine Cafe,4,1516.2,910.82,,Commercial_08,Carte
+S00714,2026-01-14,C0023,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,1,1479.57,853.65,5,Commercial_08,Especes
+S00715,26/02/2026,C0199,Particulier,Casablanca ,Casablanca-Settat,Commercial,Maison,Aspirateur,3,1877.67,1219.89,10,Commercial_04,Virement
+S00716,2026/01/23,C0035,PME,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Aspirateur,1,1868.7,1183.73,20,Commercial_11,Especes
+S00717,2026-05-18,C0042,Grand compte,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,6,1425.34,883.08,0,Commercial_04,Carte
+S00718,2026-02-20,C0068,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Souris Sans Fil,3,257.34,108.84,5,Commercial_06,Paiement mobile
+S00719,2026-08-29,C0225,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Purificateur Air,2,2391.54,1381.55,0,Commercial_02,Carte
+S00720,2026-05-04,C0034,Grand compte,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,4,1796.27,1184.66,0,Commercial_03,Carte
+S00721,2026-03-09,C0074,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Power Bank,1,357.0,162.09,30,Commercial_01,Paiement mobile
+S00722,20/04/2026,C0045,Particulier,Marrakech,Marrakech-Safi,En ligne,Bureau,Bureau Compact,3,1669.31,1020.59,0,Commercial_08,Especes
+S00723,2026-07-24,C0242,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Smartphone X,6,5910.56,4347.23,5,Commercial_05,Carte
+S00724,2026-02-22,C0007,PME,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Clavier Mecanique,4,607.2,258.92,5,Commercial_04,Carte
+S00725,2026-08-01,C0231,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,1,3665.96,2728.53,10,Commercial_03,Carte
+S00726,2026-08-12,C0118,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Classeur Metal,1,691.08,394.9,5,Commercial_07,Paiement mobile
+S00727,2026/07/21,C0082,Particulier,Casablanca,Casablanca-Settat,Commercial,Accessoires,Casque Bluetooth,1,699.37,324.14,0,Commercial_05,Especes
+S00728,2026-05-17,C0065,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Bureau,Classeur Metal,8,659.08,387.3,,Commercial_05,Carte
+S00729,10/01/2026,C0109,Particulier,Marrakech,Marrakech-Safi,En ligne,Bureau,Chaise Ergo,1,2110.12,1261.01,5,Commercial_07,Especes
+S00730,2026-07-26,C0021,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,2,1900.89,1165.49,10,Commercial_01,Paiement mobile
+S00731,2026-02-17,C0235,PME,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,1,1980.4,1249.06,30,Commercial_01,Especes
+S00732,2026-05-03,C0196,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Lampe LED,2,440.24,208.17,5,Commercial_03,Especes
+S00733,2026-01-03,C0070,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Clavier Mecanique,2,565.93,271.43,5,Commercial_02,Virement
+S00734,2026-02-21,C0052,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Bureau Compact,5,1734.44,977.48,20,Commercial_07,Paiement mobile
+S00735,2026-06-27,C0041,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Maison,Micro-ondes,7,1305.62,773.24,20,Commercial_02,Paiement mobile
+S00736,17/06/2026,C0087,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Ecran 27,4,2645.17,1730.63,20,Commercial_03,Especes
+S00737,2026-08-14,C0238,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Tablette 10,5,4000.58,2550.19,0,Commercial_04,Especes
+S00738,2026/05/14,C0004,PME,Marrakech,Marrakech-Safi,Commercial,Electronique,Laptop Pro 14,6,11413.22,8256.51,20,Commercial_03,Paiement mobile
+S00739,2026-05-18,C0241,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Maison,Aspirateur,2,2043.01,1170.78,5,Commercial_02,Paiement mobile
+S00740,2026-03-16,C0140,PME,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,3,336.31,162.53,15,Commercial_02,Virement
+S00741,2026-04-23,C0133,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Ecran 27,4,2898.89,1867.01,5,Commercial_07,Virement
+S00742,2026-01-24,C0219,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Clavier Mecanique,3,565.55,267.92,10,Commercial_06,Virement
+S00743,04/05/2026,C0226,Grand compte,Casablanca,Casablanca-Settat,Magasin,Maison,Micro-ondes,10,1315.01,737.41,10,Commercial_06,Especes
+S00744,2026-06-26,C0128,PME,Marrakech,Marrakech-Safi,En ligne,Bureau ,Lampe LED,5,447.16,205.31,0,Commercial_07,Especes
+S00745,2026-06-08,C0172,PME,Marrakech,Marrakech-Safi,Magasin,Accessoires,Power Bank,5,348.06,154.39,15,Commercial_01,Especes
+S00746,2026-01-21,C0183,Particulier,Marrakech,Marrakech-Safi,En ligne,Accessoires,Souris Sans Fil,3,267.37,111.4,10,Commercial_07,Paiement mobile
+S00747,2026-06-26,C0174,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Accessoires,Souris Sans Fil,1,274.0,114.0,10,Commercial_09,Virement
+S00748,2026-01-21,C0191,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Micro-ondes,1,1340.01,751.47,5,Commercial_01,Carte
+S00749,2026/04/12,C0186,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Chaise Ergo,2,2182.57,1307.91,5,Commercial_05,Especes
+S00750,31/07/2026,C0014,PME,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Clavier Mecanique,2,539.88,261.57,15,Commercial_05,Virement
+S00751,2026-06-17,C0089,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Lampe LED,1,401.74,219.72,0,Commercial_06,Especes
+S00752,2026-03-17,C0181,PME,Marrakech,Marrakech-Safi,En ligne,Maison,Aspirateur,1,1777.57,1234.28,0,Commercial_08,Carte
+S00753,2026-02-09,C0002,Particulier,Marrakech,Marrakech-Safi,Commercial,Accessoires,Souris Sans Fil,1,252.4,104.99,5,Commercial_04,Especes
+S00754,2026-04-23,C0155,Particulier,Rabat,Rabat-Sale-Kenitra,COMMERCIAL,Accessoires,Power Bank,2,340.71,165.77,10,Commercial_08,Virement
+S00755,2026-04-06,C0059,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Laptop Pro 14,3,11940.77,8294.09,5,Commercial_03,Paiement mobile
+S00756,2026-03-09,C0200,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Classeur Metal,2,689.89,373.58,0,Commercial_01,Virement
+S00757,01/08/2026,C0120,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Purificateur Air,1,2184.61,1427.95,10,Commercial_01,Virement
+S00758,2026-03-18,C0089,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Micro-ondes,1,1292.21,770.42,0,Commercial_05,Virement
+S00759,2026-07-06,C0020,Grand compte,Casablanca,Casablanca-Settat,Commercial,Maison,Machine Cafe,1,1400.35,831.18,5,Commercial_01,Paiement mobile
+S00760,2026/06/09,C0158,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Casque Bluetooth,3,727.4,324.94,5,Commercial_07,Paiement mobile
+S00761,2026-03-24,C0198,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Classeur Metal,5,658.22,386.84,15,Commercial_01,Carte
+S00762,2026-07-09,C0210,PME,Casablanca,Casablanca-Settat,Commercial,Maison,Aspirateur,7,1959.37,1191.53,0,Commercial_05,Paiement mobile
+S00763,2026-05-25,C0148,PME,Marrakech,Marrakech-Safi,En ligne,Maison,Micro-ondes,1,1234.85,794.8,25,Commercial_06,Especes
+S00764,01/08/2026,C0225,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Clavier Mecanique,2,580.61,265.92,10,Commercial_02,Carte
+S00765,2026-02-13,C0151,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,1,2375.54,1428.9,10,Commercial_05,Especes
+S00766,2026-05-13,C0258,PME,Fes,Fes-Meknes,En ligne,Accessoires,Clavier Mecanique,3,570.35,265.09,20,Commercial_01,Carte
+S00767,2026-04-13,C0158,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Micro-ondes,1,1393.47,754.16,0,Commercial_08,Paiement mobile
+S00768,2026-04-18,C0241,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Smartphone X,3,6361.04,4202.65,25,Commercial_01,Especes
+S00769,2026-01-27,C0058,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires,Clavier Mecanique,3,594.97,283.82,0,Commercial_08,Paiement mobile
+S00770,2026-08-08,C0229,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,3,716.22,318.96,0,Commercial_07,Virement
+S00771,03/02/2026,C0244,Particulier,Marrakech,Marrakech-Safi,Commercial,Accessoires,Souris Sans Fil,4,263.05,110.3,25,Commercial_05,Paiement mobile
+S00772,2026-03-23,C0260,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Casque Bluetooth,1,721.02,320.38,10,Commercial_06,Paiement mobile
+S00773,2026-04-16,C0199,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,3,441.15,216.39,0,Commercial_01,Especes
+S00774,2026-06-02,C0235,Particulier,Marrakech,Marrakech-Safi,Magasin,Maison,Micro-ondes,4,1263.3,730.18,0,Commercial_04,Carte
+S00775,2026-08-22,C0259,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Maison,Micro-ondes,3,1316.68,731.43,0,Commercial_05,Paiement mobile
+S00776,2026-07-06,C0238,Particulier,Casablanca,Casablanca-Settat,magasin,Accessoires,Casque Bluetooth,1,693.03,325.26,30,Commercial_08,Especes
+S00777,2026-01-12,C0147,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Laptop Pro 14,6,12008.82,8127.71,5,Commercial_08,Carte
+S00778,04/02/2026,C0093,PME,Tanger ,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Power Bank,4,352.1,153.91,0,Commercial_07,Paiement mobile
+S00779,2026-01-11,C0233,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Ecran 27,6,2984.59,1772.23,5,Commercial_10,Carte
+S00780,2026-08-11,C0161,PME,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,5,6126.8,4297.94,20,Commercial_06,Especes
+S00781,2026-02-08,C0245,Grand compte,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,5,339.22,161.24,5,Commercial_04,Paiement mobile
+S00782,2026/04/16,C0087,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Bureau,Lampe LED,1,398.24,221.14,25,Commercial_08,Especes
+S00783,2026-06-26,C0015,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Bureau Compact,3,1822.38,971.01,0,Commercial_05,Carte
+S00784,2026-01-27,C0250,PME,Fes,Fes-Meknes,En ligne,Maison,Aspirateur,5,1848.88,1202.47,10,Commercial_08,Paiement mobile
+S00785,03/06/2026,C0023,PME,Fes,Fes-Meknes,En ligne,Accessoires,Casque Bluetooth,2,726.37,336.09,0,Commercial_02,Paiement mobile
+S00786,2026-01-05,C0055,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Machine Cafe,1,1549.56,826.51,10,Commercial_03,Carte
+S00787,2026-04-29,C0230,Particulier,Marrakech,Marrakech-Safi,magasin,Accessoires,Souris Sans Fil,4,258.3,108.68,15,Commercial_06,Virement
+S00788,2026-07-31,C0055,PME,Marrakech,Marrakech-Safi,magasin,Bureau,Classeur Metal,1,685.64,385.24,5,Commercial_07,Virement
+S00789,2026-08-12,C0232,Particulier,Casablanca,Casablanca-Settat,Magasin,Accessoires ,Souris Sans Fil,3,263.9,114.03,10,Commercial_06,Carte
+S00790,2026-04-17,C0038,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique ,Ecran 27,4,2658.95,1730.97,15,Commercial_07,Carte
+S00791,2026-02-06,C0177,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Bureau,Lampe LED,3,443.77,201.59,15,Commercial_01,Especes
+S00792,16/02/2026,C0131,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Power Bank,3,387.1,161.31,10,Commercial_06,Especes
+S00793,2026/07/13,C0187,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Clavier Mecanique,6,544.42,279.04,5,Commercial_08,Carte
+S00794,2026-02-01,C0175,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,3,1891.24,1212.27,15,Commercial_01,Virement
+S00795,2026-06-22,C0018,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,3,1839.41,1163.98,5,Commercial_06,Especes
+S00796,2026-08-23,C0167,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Bureau,Bureau Compact,2,1812.41,978.83,10,Commercial_08,Paiement mobile
+S00797,2026-07-02,C0012,Grand compte,Fes,Fes-Meknes,Commercial,Electronique,Ecran 27,3,2699.11,1787.57,25,Commercial_11,Virement
+S00798,2026-05-17,C0229,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Smartphone X,3,6034.96,4140.9,10,Commercial_04,Paiement mobile
+S00799,12/05/2026,C0242,Particulier,Marrakech,Marrakech-Safi,Commercial,Electronique,Ecran 27,3,2885.15,1712.88,10,Commercial_01,Virement
+S00800,2026-05-04,C0251,Grand compte,Marrakech,Marrakech-Safi,Magasin,Electronique,Ecran 27,4,2956.26,1820.12,20,Commercial_02,Virement
+S00801,2026-05-27,C0093,PME,Marrakech,Marrakech-Safi,Magasin,Maison,Purificateur Air,3,2191.23,1517.53,5,Commercial_03,Especes
+S00802,2026-07-21,C0164,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Chaise Ergo,3,2057.91,1248.77,15,Commercial_02,Carte
+S00803,2026-01-17,C0071,PME,Casablanca,Casablanca-Settat,Commercial,Bureau,Chaise Ergo,2,2119.61,1259.23,0,Commercial_05,Carte
+S00804,2026/01/30,C0090,Grand compte,Casablanca,Casablanca-Settat,En ligne,Bureau,Lampe LED,9,434.88,222.31,0,Commercial_01,Virement
+S00805,2026-07-17,C0156,Grand compte,Marrakech,Marrakech-Safi,Commercial,Accessoires,Souris Sans Fil,7,268.36,115.46,0,Commercial_12,Paiement mobile
+S00806,14/08/2026,C0069,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Electronique,Laptop Pro 14,3,11107.33,8027.4,0,Commercial_04,Carte
+S00807,2026-05-20,C0085,Particulier,Casablanca,Casablanca-Settat,Commercial,Accessoires ,Power Bank,2,385.93,165.22,0,Commercial_11,Carte
+S00808,2026-04-22,C0203,Grand compte,Rabat ,Rabat-Sale-Kenitra,En ligne,Maison,Purificateur Air,9,2190.05,1408.33,0,Commercial_03,Carte
+S00809,2026-04-24,C0157,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Machine Cafe,2,1403.64,889.84,0,Commercial_07,Carte
+S00810,2026-01-25,C0041,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Aspirateur,1,2004.1,1189.21,20,Commercial_04,Virement
+S00811,2026-08-27,C0157,PME,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,5,1992.86,1152.43,0,Commercial_05,Paiement mobile
+S00812,2026-08-19,C0239,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Bureau Compact,1,1869.47,932.63,25,Commercial_01,Paiement mobile
+S00813,02/04/2026,C0124,pme,Casablanca,Casablanca-Settat,Magasin,Maison,Aspirateur,4,1979.2,1270.61,10,Commercial_06,Paiement mobile
+S00814,2026-08-08,C0158,Particulier,Fes,Fes-Meknes,Commercial,Bureau,Classeur Metal,4,685.88,378.61,10,Commercial_11,Virement
+S00815,2026/05/12,C0112,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,1,3753.56,2543.67,0,Commercial_02,Virement
+S00816,2026-04-16,C0177,PME,Casablanca,Casablanca-Settat,Commercial,Maison,Micro-ondes,5,1212.38,733.98,20,Commercial_06,Paiement mobile
+S00817,2026-08-28,C0218,Particulier,Fes,Fes-Meknes,En ligne,Electronique,Laptop Pro 14,2,12250.08,7984.89,10,Commercial_06,Especes
+S00818,2026-04-15,C0102,PME,Marrakech,Marrakech-Safi,En ligne,Maison,Machine Cafe,3,1553.61,906.96,0,Commercial_02,Paiement mobile
+S00819,2026-07-20,C0175,PME,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Laptop Pro 14,4,12388.22,8686.48,30,Commercial_04,Especes
+S00820,04/04/2026,C0002,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Accessoires,Casque Bluetooth,1,735.09,346.85,20,Commercial_04,Carte
+S00821,2026-01-29,C0156,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Laptop Pro 14,3,11736.42,8466.85,20,Commercial_05,Paiement mobile
+S00822,2026-08-31,C0025,PME,Casablanca,Casablanca-Settat,Magasin,Maison,Micro-ondes,2,1307.53,784.57,25,Commercial_02,Virement
+S00823,2026-06-16,C0038,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Electronique,Ecran 27,2,2742.17,1738.47,0,Commercial_02,Virement
+S00824,2026-04-29,C0200,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Micro-ondes,1,1292.11,783.63,0,Commercial_05,Carte
+S00825,2026-05-28,C0097,Particulier,rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,2,2649.9,1778.56,5,Commercial_05,Especes
+S00826,2026/05/27,C0002,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Clavier Mecanique,3,563.46,279.9,10,Commercial_03,Paiement mobile
+S00827,12/03/2026,C0146,particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Tablette 10,1,3936.15,2804.62,10,Commercial_04,Carte
+S00828,2026-06-10,C0150,Particulier,Marrakech,Marrakech-Safi,En ligne,Maison,Micro-ondes,3,1377.55,777.17,10,Commercial_05,Virement
+S00829,2026-05-26,C0235,Particulier,Marrakech,Marrakech-Safi,En ligne,Accessoires,Souris Sans Fil,2,270.95,106.08,20,Commercial_02,Virement
+S00830,2026-02-24,C0074,Particulier,Rabat,Rabat-Sale-Kenitra,magasin,Maison,Purificateur Air,3,2421.22,1448.2,10,Commercial_01,Especes
+S00831,2026-07-15,C0208,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Casque Bluetooth,3,682.82,314.88,10,Commercial_06,Paiement mobile
+S00832,2026-08-08,C0161,PME,Marrakech,Marrakech-Safi,En ligne,Maison,Micro-ondes,1,1222.05,779.45,0,Commercial_03,Carte
+S00833,2026-05-09,C0121,Particulier,Rabat,Rabat-Sale-Kenitra,Commercial,Maison,Machine Cafe,1,1493.44,866.64,5,Commercial_09,Especes
+S00834,27/07/2026,C0091,Grand compte,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Lampe LED,4,396.54,205.26,5,Commercial_11,Especes
+S00835,2026-02-17,C0147,Grand compte,Casablanca,Casablanca-Settat,En ligne,Electronique,Tablette 10,3,3722.39,2792.01,0,Commercial_03,Especes
+S00836,2026-03-08,C0083,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Classeur Metal,9,668.32,395.81,,Commercial_04,Virement
+S00837,2026/03/24,C0154,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Power Bank,5,356.57,152.67,20,Commercial_08,Carte
+S00838,2026-01-01,C0020,Particulier,Casablanca,Casablanca-Settat,Commercial,Maison,Micro-ondes,4,1379.14,795.53,0,Commercial_09,Especes
+S00839,2026-01-20,C0097,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Accessoires,Casque Bluetooth,3,651.51,341.53,5,Commercial_08,Carte
+S00840,2026-06-16,C0182,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique ,Tablette 10,1,4086.51,2744.82,0,Commercial_07,Paiement mobile
+S00841,18/08/2026,C0061,Grand compte,Rabat,Rabat-Sale-Kenitra,Commercial,Electronique,Tablette 10,4,3771.58,2568.02,10,Commercial_01,Especes
+S00842,2026-08-29,C0128,PME,Casablanca,Casablanca-Settat,Commercial,Bureau,Lampe LED,3,421.4,221.96,0,Commercial_06,Paiement mobile
+S00843,2026-06-15,C0228,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Purificateur Air,4,2312.31,1379.4,0,Commercial_01,Virement
+S00844,2026-07-28,C0252,PME,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Accessoires,Casque Bluetooth,1,660.86,315.57,25,Commercial_06,Paiement mobile
+S00845,2026-05-11,C0221,Particulier,Fes,Fes-Meknes,Commercial,Electronique,Ecran 27,1,3009.27,1887.41,20,Commercial_05,Virement
+S00846,2026-05-18,C0217,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,En ligne,Accessoires,Clavier Mecanique,1,622.64,259.16,15,Commercial_04,Carte
+S00847,2026-08-23,C0036,Particulier,,Fes-Meknes,Magasin,Accessoires,Clavier Mecanique,1,548.7,269.25,25,Commercial_03,Carte
+S00848,20/07/2026,C0172,Particulier,Marrakech,Marrakech-Safi,Magasin,Maison,Machine Cafe,2,1436.4,847.02,5,Commercial_02,Paiement mobile
+S00849,2026-04-16,C0137,PME,Casablanca,Casablanca-Settat,Magasin,Accessoires,Power Bank,4,353.66,156.32,15,Commercial_02,Especes
+S00850,2026-03-24,C0067,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,2,2752.46,1817.37,0,Commercial_08,Virement
+S00851,2026-05-20,C0083,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Souris Sans Fil,3,274.57,107.45,5,Commercial_01,Especes
+S00852,2026-02-26,C0015,PME,Casablanca,Casablanca-Settat,En ligne,Maison,Aspirateur,1,1839.8,1188.46,10,Commercial_02,Virement
+S00853,2026-08-22,C0147,Particulier,Fes,Fes-Meknes,Magasin,Electronique,Laptop Pro 14,2,11341.9,8321.49,0,Commercial_03,Carte
+S00854,2026-02-14,C0204,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Ecran 27,1,2903.36,1806.95,5,Commercial_04,Paiement mobile
+S00855,10/03/2026,C0198,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Smartphone X,3,6453.19,4107.23,5,Commercial_03,Virement
+S00856,2026-06-01,C0023,PME,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Power Bank,3,340.0,153.05,20,Commercial_01,Virement
+S00857,2026-01-17,C0012,Particulier,Marrakech,Marrakech-Safi,En ligne,Accessoires,Power Bank,2,355.3,166.22,0,Commercial_08,Especes
+S00858,2026-03-14,C0084,Particulier,Casa,Casablanca-Settat,Commercial,Maison,Machine Cafe,2,1429.73,850.5,20,Commercial_12,Virement
+S00859,2026/01/19,C0110,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Accessoires,Casque Bluetooth,2,730.12,319.74,5,Commercial_08,Paiement mobile
+S00860,2026-05-04,C0121,Particulier,Marrakech,Marrakech-Safi,Magasin,Electronique,Smartphone X,4,6399.57,4340.99,5,Commercial_08,Paiement mobile
+S00861,2026-03-04,C0086,Grand compte,Casablanca,Casablanca-Settat,En ligne,Electronique,Tablette 10,3,4059.35,2651.46,0,Commercial_06,Paiement mobile
+S00862,26/08/2026,C0203,PME,Rabat,Rabat-Sale-Kenitra,Commercial,Accessoires,Power Bank,1,380.58,168.24,20,Commercial_03,Especes
+S00863,2026-05-02,C0226,PME,Tanger ,Tanger-Tetouan-Al Hoceima,Commercial,Accessoires,Clavier Mecanique,1,589.09,279.94,10,Commercial_11,Carte
+S00864,2026-03-22,C0108,particulier,Fes,Fes-Meknes,Magasin,Electronique,Tablette 10,3,3701.96,2564.04,10,Commercial_06,Especes
+S00865,2026-05-26,C0221,Particulier,Fes,Fes-Meknes,En ligne,Electronique,Ecran 27,3,2708.56,1878.46,25,Commercial_03,Especes
+S00866,2026-03-20,C0022,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Bureau,Classeur Metal,1,644.09,376.62,10,Commercial_04,Carte
+S00867,2026-05-07,C0198,PME,Fes,Fes-Meknes,En ligne,Electronique,Laptop Pro 14,3,11555.67,8617.9,0,Commercial_04,Carte
+S00868,2026-05-28,C0019,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Laptop Pro 14,2,11796.34,7913.42,15,Commercial_03,Especes
+S00869,17/08/2026,C0054,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Electronique,Laptop Pro 14,2,11165.83,8169.79,0,Commercial_03,Carte
+S00870,2026/01/04,C0058,Particulier,Casablanca,Casablanca-Settat,En ligne,Electronique,Smartphone X,2,6511.59,4509.42,20,Commercial_01,Carte
+S00871,2026-08-20,C0238,Particulier,Casablanca,Casablanca-Settat,En ligne,Bureau,Classeur Metal,1,662.5,375.0,20,Commercial_07,Paiement mobile
+S00872,2026-01-31,C0069,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Laptop Pro 14,2,11483.7,7936.53,10,Commercial_06,Paiement mobile
+S00873,2026-04-09,C0113,Particulier,Marrakech,Marrakech-Safi,En ligne,Electronique,Ecran 27,3,2874.03,1822.22,0,Commercial_01,Virement
+S00874,2026-01-22,C0218,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Power Bank,1,351.13,155.39,30,Commercial_05,Virement
+S00875,2026-03-01,C0023,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Smartphone X,1,6117.74,4097.56,15,Commercial_01,Paiement mobile
+S00876,07/01/2026,C0106,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Electronique,Laptop Pro 14,6,12189.69,8785.83,10,Commercial_05,Carte
+S00877,2026-01-15,C0041,Grand compte,Fes,Fes-Meknes,En ligne,Maison,Micro-ondes,1,1395.74,760.83,5,Commercial_02,Carte
+S00878,2026-06-29,C0115,Particulier,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,1,12245.19,8209.14,10,Commercial_03,Paiement mobile
+S00879,2026-07-15,C0047,PME,Casablanca,Casablanca-Settat,Magasin,Bureau,Lampe LED,4,406.25,206.09,10,Commercial_02,Especes
+S00880,2026-03-14,C0190,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,BUREAU,Chaise Ergo,1,2149.86,1263.25,20,Commercial_07,Especes
+S00881,2026/05/20,C0138,Particulier,Casablanca,Casablanca-Settat,Commercial,Accessoires,Souris Sans Fil,2,276.29,116.12,20,Commercial_12,Carte
+S00882,2026-07-22,C0003,Particulier,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Laptop Pro 14,2,11746.63,8366.78,10,Commercial_01,Carte
+S00883,19/04/2026,C0082,Particulier,Fes,Fes-Meknes,Magasin,Maison,Aspirateur,2,1787.78,1147.07,0,Commercial_02,Carte
+S00884,2026-02-25,C0051,PME,Casablanca,Casablanca-Settat,Commercial,Accessoires,Power Bank,3,384.98,167.53,5,Commercial_12,Especes
+S00885,2026-01-02,C0128,Particulier,Casablanca,Casablanca-Settat,En ligne,Accessoires,Casque Bluetooth,2,693.82,314.81,15,Commercial_08,Especes
+S00886,2026-03-20,C0062,Particulier,Casablanca,Casablanca-Settat,En ligne,Maison,Machine Cafe,4,1416.62,846.96,15,Commercial_03,Virement
+S00887,2026-08-29,C0252,Grand compte,Marrakech,Marrakech-Safi,En ligne ,Maison,Purificateur Air,7,2185.27,1452.26,20,Commercial_04,Especes
+S00888,2026-07-17,C0107,Particulier ,marrakech,Marrakech-Safi,Magasin,Electronique,Smartphone X,2,5921.14,4451.39,0,Commercial_03,Virement
+S00889,2026-05-15,C0062,Grand compte,Rabat,Rabat-Sale-Kenitra,En ligne,Bureau,Lampe LED,2,448.19,217.86,10,Commercial_08,Virement
+S00890,29/07/2026,C0054,Particulier,Casablanca,Casablanca-Settat,Magasin,Bureau,Lampe LED,2,411.15,210.37,10,Commercial_04,Especes
+S00891,2026-01-31,C0081,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Electronique,Smartphone X,5,6467.77,4313.96,,Commercial_05,Carte
+S00892,2026/04/27,C0033,PME,Casablanca,Casablanca-Settat,En ligne,Bureau,Bureau Compact,1,1834.05,1007.31,25,Commercial_02,Paiement mobile
+S00893,2026-06-05,C0120,PME,Fes,Fes-Meknes,Magasin,bureau,Chaise Ergo,4,2107.78,1221.37,30,Commercial_06,Carte
+S00894,2026-06-26,C0071,Grand compte,Fes,Fes-Meknes,Commercial,Electronique,Laptop Pro 14,8,11583.46,8437.6,15,Commercial_12,Paiement mobile
+S00895,2026-01-23,C0084,PME,Rabat,Rabat-Sale-Kenitra,En ligne,ACCESSOIRES,Power Bank,3,368.34,160.29,5,Commercial_07,Paiement mobile
+S00896,2026-04-16,C0004,Grand compte,Tanger,Tanger-Tetouan-Al Hoceima,Magasin,Accessoires,Clavier Mecanique,7,550.37,281.84,10,Commercial_03,Paiement mobile
+S00897,20/08/2026,C0070,Particulier,Fes,Fes-Meknes,Commercial,Maison,Machine Cafe,2,1423.09,827.02,10,Commercial_11,Especes
+S00898,2026-08-08,C0121,Grand compte,Rabat,Rabat-Sale-Kenitra,Commercial,Bureau,Bureau Compact,2,1750.95,1011.22,10,Commercial_04,Virement
+S00899,2026-01-03,C0231,Grand compte ,Tanger,Tanger-Tetouan-Al Hoceima,Commercial,Bureau,Classeur Metal,6,704.66,385.59,20,Commercial_01,Especes
+S00900,2026-03-23,C0029,Particulier,Rabat,Rabat-Sale-Kenitra,Magasin,Maison,Aspirateur,3,1855.0,1214.13,10,Commercial_08,Paiement mobile
+S00081,2026-01-04,C0135,Particulier,Fes,Fes-Meknes,En ligne,Accessoires,Power Bank,1,348.13,152.8,10,Commercial_08,Especes
+S00674,2026-05-20,C0222,Particulier,Marrakech ,Marrakech-Safi,En ligne,Accessoires,Power Bank,4,345.05,154.0,0,Commercial_03,Especes
+S00110,2026-01-06,C0107,PME,Casablanca,Casablanca-Settat,Magasin,Electronique,Laptop Pro 14,5,11274.69,8784.06,10,Commercial_05,Carte
+S00563,2026-06-29,C0036,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Aspirateur,2,2012.77,1167.74,15,Commercial_05,Paiement mobile
+S00467,2026-02-14,C0156,Particulier,Rabat,Rabat-Sale-Kenitra,En ligne,Electronique,Ecran 27,4,2859.67,1771.82,0,Commercial_06,Carte
+S00507,2026/06/18,C0212,Particulier,Casablanca,Casablanca-Settat,Magasin,Maison,Aspirateur,2,1850.75,1192.4,0,Commercial_04,Especes
